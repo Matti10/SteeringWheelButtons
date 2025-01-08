@@ -1,0 +1,268 @@
+{
+  "uuid": "44903dce9ecb8ea351fd0766c8f26958",
+  "path": "Offline/PSU-SteeringWheelButtons",
+  "name": "PSU-SteeringWheelButtons",
+  "content": "",
+  "created_at": "2025-01-07 13:12:29",
+  "updated_at": "2025-01-07 15:10:33",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "666f40a6c992b440d8f58874bf2df574",
+      "title": "PowerReg",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6bc87021c356752573363354799bb887": 1,
+        "c887f54542b71354688f61d268e3177c": 1,
+        "6cf87680c3424c4e89db1ec7f8f632d6": 1,
+        "2ca2386b423df0687680de4ba6d8585a": 1,
+        "617a3d55747a41388c2bb3f594dff32d": 1,
+        "27c276ce01854c1e99f388ebed1d036f": 1,
+        "16f5c376e3ea4a19a3c71d71c72d3844": 1,
+        "66d2ce4416a3416eaad37f0a2c449fe4": 1,
+        "8ff3f52df3c249d5bcb71a087fbd3742": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1625854-2",
+          1,
+          "TEST-RING",
+          "3.3V",
+          {
+            "Manufacturer Part": "1625854-2",
+            "Manufacturer": "TE Connectivity(泰科电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C306063"
+          }
+        ],
+        [
+          "330uF",
+          1,
+          "CASE-D_7343",
+          "C1",
+          {
+            "Manufacturer Part": "TAJD337K010RNJ",
+            "Manufacturer": "Kyocera AVX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7226"
+          }
+        ],
+        [
+          "470uF",
+          1,
+          "CASE-D_7343",
+          "C2",
+          {
+            "Manufacturer Part": "TAJD477K006RNJ",
+            "Manufacturer": "Kyocera AVX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7229"
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0603",
+          "C3",
+          {
+            "Manufacturer Part": "CL10A105KO8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1592"
+          }
+        ],
+        [
+          "47uH",
+          1,
+          "IND-SMD_L10.4-W10.3",
+          "L1",
+          {
+            "Manufacturer Part": "SMDRH104R-470MT",
+            "Manufacturer": "SXN(顺翔诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9934"
+          }
+        ],
+        [
+          "PH-2AW",
+          1,
+          "CONN-TH_PH-2AW",
+          "PWR",
+          {
+            "Manufacturer Part": "PH-2AW",
+            "Manufacturer": "CAX(创都)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C722769"
+          }
+        ],
+        [
+          "XL1509-3.3",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U6",
+          {
+            "Manufacturer Part": "XL1509-3.3",
+            "Manufacturer": "UMW(友台半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2681226"
+          }
+        ],
+        [
+          "1N5820-E3/54",
+          1,
+          "DO-201AD_BD5.3-L8.4-P12.50-D1.4-FD",
+          "U7",
+          {
+            "Manufacturer Part": "1N5820-E3/54",
+            "Manufacturer": "VISHAY(威世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5357977"
+          }
+        ]
+      ],
+      "updateTime": 1736226246,
+      "createTime": 1736219567,
+      "histories": [],
+      "created_at": "2025-01-07 13:12:47",
+      "updated_at": "2025-01-07 15:04:06"
+    },
+    {
+      "uuid": "1ead83427939d0747b2092f965f59a33",
+      "puuid": "44903dce9ecb8ea351fd0766c8f26958",
+      "title": "PCB_PSU-SteeringWheelButtons",
+      "filename": "PCB_PSU-SteeringWheelButtons.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ee57e2a7da9d45198f6b3e4b2ca98ce3": 1,
+        "0cf5e6fefefe4e1db4ea90dd2d9cad30": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "3a71a91fb05d4d74947258da2d195a64": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 1,
+        "9a299d39a63849efb461b57d8af06193": 1,
+        "5097991214d64acd8259630f7811648f": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1625854-2",
+          1,
+          "TEST-RING",
+          "3.3V",
+          {
+            "Manufacturer Part": "1625854-2",
+            "Manufacturer": "TE Connectivity(泰科电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C306063"
+          }
+        ],
+        [
+          "330uF",
+          1,
+          "CASE-D_7343",
+          "C1",
+          {
+            "Manufacturer Part": "TAJD337K010RNJ",
+            "Manufacturer": "Kyocera AVX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7226"
+          }
+        ],
+        [
+          "470uF",
+          1,
+          "CASE-D_7343",
+          "C2",
+          {
+            "Manufacturer Part": "TAJD477K006RNJ",
+            "Manufacturer": "Kyocera AVX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7229"
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0603",
+          "C3",
+          {
+            "Manufacturer Part": "CL10A105KO8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1592"
+          }
+        ],
+        [
+          "47uH",
+          1,
+          "IND-SMD_L10.4-W10.3",
+          "L1",
+          {
+            "Manufacturer Part": "SMDRH104R-470MT",
+            "Manufacturer": "SXN(顺翔诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9934"
+          }
+        ],
+        [
+          "XL1509-3.3",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U6",
+          {
+            "Manufacturer Part": "XL1509-3.3",
+            "Manufacturer": "UMW(友台半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2681226"
+          }
+        ],
+        [
+          "1N5820-E3/54",
+          1,
+          "DO-201AD_BD5.3-L8.4-P12.50-D1.4-FD",
+          "U7",
+          {
+            "Manufacturer Part": "1N5820-E3/54",
+            "Manufacturer": "VISHAY(威世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5357977"
+          }
+        ]
+      ],
+      "updateTime": 1736226633,
+      "createTime": 1736220260,
+      "histories": [],
+      "created_at": "2025-01-07 13:24:20",
+      "updated_at": "2025-01-07 15:10:33"
+    }
+  ],
+  "sort": [
+    "d490cf67e4c91e32af7461fa2dd459b9",
+    "36956a03cc7e16c40811d18476c65591",
+    "24d0199b1bd16bf6327aa1be0f8935be",
+    "e0aa1722318468153f800c3a8ae58fc9",
+    "666f40a6c992b440d8f58874bf2df574"
+  ],
+  "title": "PSU-SteeringWheelButtons",
+  "foldername": "PSU-SteeringWheelButtons",
+  "schfilename": "PSU-SteeringWheelButtons.json",
+  "schfilemtime": 1736226246773
+}
