@@ -4,7 +4,7 @@
   "name": "PSU-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-07 13:12:29",
-  "updated_at": "2025-01-07 15:10:33",
+  "updated_at": "2025-01-08 23:04:12",
   "stick": "",
   "documents": [
     {
@@ -22,8 +22,7 @@
         "617a3d55747a41388c2bb3f594dff32d": 1,
         "27c276ce01854c1e99f388ebed1d036f": 1,
         "16f5c376e3ea4a19a3c71d71c72d3844": 1,
-        "66d2ce4416a3416eaad37f0a2c449fe4": 1,
-        "8ff3f52df3c249d5bcb71a087fbd3742": 1
+        "8ff3f52df3c249d5bcb71a087fbd3742": 2
       },
       "BOM": [
         [
@@ -95,9 +94,9 @@
         ],
         [
           "PH-2AW",
-          1,
+          2,
           "CONN-TH_PH-2AW",
-          "PWR",
+          "PWR,PWR1",
           {
             "Manufacturer Part": "PH-2AW",
             "Manufacturer": "CAX(创都)",
@@ -130,11 +129,11 @@
           }
         ]
       ],
-      "updateTime": 1736226246,
+      "updateTime": 1736341452,
       "createTime": 1736219567,
       "histories": [],
       "created_at": "2025-01-07 13:12:47",
-      "updated_at": "2025-01-07 15:04:06"
+      "updated_at": "2025-01-08 23:04:12"
     },
     {
       "uuid": "1ead83427939d0747b2092f965f59a33",
@@ -151,8 +150,7 @@
         "f8151fdc728a41ebbc304e11d39e5437": 1,
         "3a71a91fb05d4d74947258da2d195a64": 1,
         "806a55eb4d3c40ab838f70f86785d85e": 1,
-        "9a299d39a63849efb461b57d8af06193": 1,
-        "5097991214d64acd8259630f7811648f": 1
+        "5097991214d64acd8259630f7811648f": 2
       },
       "BOM": [
         [
@@ -247,11 +245,11 @@
           }
         ]
       ],
-      "updateTime": 1736226633,
+      "updateTime": 1736341450,
       "createTime": 1736220260,
       "histories": [],
       "created_at": "2025-01-07 13:24:20",
-      "updated_at": "2025-01-07 15:10:33"
+      "updated_at": "2025-01-08 23:04:10"
     }
   ],
   "sort": [
@@ -264,5 +262,5 @@
   "title": "PSU-SteeringWheelButtons",
   "foldername": "PSU-SteeringWheelButtons",
   "schfilename": "PSU-SteeringWheelButtons.json",
-  "schfilemtime": 1736226246773
+  "schfilemtime": 1736341452928
 }
