@@ -1,14 +1,14 @@
 {
-  "d210ae01227f5f3d75116f982394b5c9": "BTOnly-SteeringWheelButtonsV0",
-  "d490cf67e4c91e32af7461fa2dd459b9": "BTOnly-SteeringWheelButtonsV0\\BTOnly-SteeringWheelButtonsV0.json?MCU",
-  "24d0199b1bd16bf6327aa1be0f8935be": "BTOnly-SteeringWheelButtonsV0\\BTOnly-SteeringWheelButtonsV0.json?Input",
-  "e0aa1722318468153f800c3a8ae58fc9": "BTOnly-SteeringWheelButtonsV0\\BTOnly-SteeringWheelButtonsV0.json?debuggingInterface",
-  "a192c4170f021c055914f25ef59034c3": "BTOnly-SteeringWheelButtonsV0\\PCB_SteeringWheelButtonsV0_2.json",
+  "d210ae01227f5f3d75116f982394b5c9": "BTOnly-SteeringWheelButtons",
+  "d490cf67e4c91e32af7461fa2dd459b9": "BTOnly-SteeringWheelButtons\\BTOnly-SteeringWheelButtonsV0.json?MCU",
+  "24d0199b1bd16bf6327aa1be0f8935be": "BTOnly-SteeringWheelButtons\\BTOnly-SteeringWheelButtonsV0.json?Input",
+  "e0aa1722318468153f800c3a8ae58fc9": "BTOnly-SteeringWheelButtons\\BTOnly-SteeringWheelButtonsV0.json?debuggingInterface",
+  "a192c4170f021c055914f25ef59034c3": "BTOnly-SteeringWheelButtons\\PCB_SteeringWheelButtonsV0_2.json",
   "44903dce9ecb8ea351fd0766c8f26958": "PSU-SteeringWheelButtons",
   "666f40a6c992b440d8f58874bf2df574": "PSU-SteeringWheelButtons\\PSU-SteeringWheelButtons.json?PowerReg",
   "1ead83427939d0747b2092f965f59a33": "PSU-SteeringWheelButtons\\PCB_PSU-SteeringWheelButtons.json",
-  "ccaf1b2d1c50a4cbbf47141f8ed2e9d4": "SteeringWheelButtonsV0",
-  "df79a082579e93502047124ed5c6e198": "SteeringWheelButtonsV0\\SteeringWheelButtonsV0.json?Sheet_1",
-  "d154334b046c8755f01be93e38a641fc": "SteeringWheelButtonsV0\\SteeringWheelButtonsV0.json?Sheet_2",
-  "4871ba936d1321a80d961b751da60513": "SteeringWheelButtonsV0\\PCB_SteeringWheelButtonsV0_2.json"
+  "ccaf1b2d1c50a4cbbf47141f8ed2e9d4": "SteeringWheelButtons",
+  "df79a082579e93502047124ed5c6e198": "SteeringWheelButtons\\SteeringWheelButtonsV0.json?Sheet_1",
+  "d154334b046c8755f01be93e38a641fc": "SteeringWheelButtons\\SteeringWheelButtonsV0.json?Sheet_2",
+  "4871ba936d1321a80d961b751da60513": "SteeringWheelButtons\\PCB_SteeringWheelButtonsV0_2.json"
 }

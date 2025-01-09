@@ -1,7 +1,7 @@
 {
   "uuid": "ccaf1b2d1c50a4cbbf47141f8ed2e9d4",
-  "path": "Offline/SteeringWheelButtonsV0",
-  "name": "SteeringWheelButtonsV0",
+  "path": "Offline/SteeringWheelButtons",
+  "name": "SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-02 07:52:59",
   "updated_at": "2025-01-03 15:52:30",
@@ -527,8 +527,8 @@
     "df79a082579e93502047124ed5c6e198",
     "d154334b046c8755f01be93e38a641fc"
   ],
-  "title": "SteeringWheelButtonsV0",
-  "foldername": "SteeringWheelButtonsV0",
+  "title": "SteeringWheelButtons",
+  "foldername": "SteeringWheelButtons",
   "schfilename": "SteeringWheelButtonsV0.json",
   "schfilemtime": 1735883503308
 }

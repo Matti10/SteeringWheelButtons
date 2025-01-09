@@ -1,7 +1,7 @@
 {
   "uuid": "d210ae01227f5f3d75116f982394b5c9",
-  "path": "Offline/BTOnly-SteeringWheelButtonsV0",
-  "name": "BTOnly-SteeringWheelButtonsV0",
+  "path": "Offline/BTOnly-SteeringWheelButtons",
+  "name": "BTOnly-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-02 07:52:59",
   "updated_at": "2025-01-08 15:56:03",
@@ -766,8 +766,8 @@
     "24d0199b1bd16bf6327aa1be0f8935be",
     "e0aa1722318468153f800c3a8ae58fc9"
   ],
-  "title": "BTOnly-SteeringWheelButtonsV0",
-  "foldername": "BTOnly-SteeringWheelButtonsV0",
+  "title": "BTOnly-SteeringWheelButtons",
+  "foldername": "BTOnly-SteeringWheelButtons",
   "schfilename": "BTOnly-SteeringWheelButtonsV0.json",
   "schfilemtime": 1736315763550
 }
