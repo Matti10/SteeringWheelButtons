@@ -4,7 +4,7 @@
   "name": "BTOnly-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-02 07:52:59",
-  "updated_at": "2025-01-09 20:33:10",
+  "updated_at": "2025-01-09 23:07:41",
   "stick": "",
   "documents": [
     {
@@ -817,7 +817,6 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "9efa05c10d1644a289325520eb81a9bb": 1,
         "0821ed6ea50c44f4909e4be7610e4198": 4,
         "f8151fdc728a41ebbc304e11d39e5437": 7,
         "2ee8eb13a0124a108e622ce40c0c25a8": 1,
@@ -832,7 +831,8 @@
         "02ae667aca734971be8a5f58143dd564": 1,
         "e132634cd5c84eee80651aad71cf0dcc": 1,
         "bb35fe0736874a7c99662696f46d1d41": 2,
-        "b60f399a7a7e41848b2be1eb49c79141": 1
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "9efa05c10d1644a289325520eb81a9bb": 1
       },
       "BOM": [
         [
@@ -891,11 +891,11 @@
           }
         ]
       ],
-      "updateTime": 1736418790,
+      "updateTime": 1736428061,
       "createTime": 1735794221,
       "histories": [],
       "created_at": "2025-01-02 15:03:41",
-      "updated_at": "2025-01-09 20:33:10"
+      "updated_at": "2025-01-09 23:07:41"
     }
   ],
   "sort": [
