@@ -4,7 +4,7 @@
   "name": "BTOnly-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-02 07:52:59",
-  "updated_at": "2025-01-08 15:56:03",
+  "updated_at": "2025-01-09 20:33:10",
   "stick": "",
   "documents": [
     {
@@ -25,8 +25,276 @@
         "a367f7ea4defbf69140b8d3a5dadf2de": 1,
         "bafbb01c9137bfb945474bf841ee2d4b": 1,
         "17c672b5a8dc30426a9c5eb7f19b5378": 1,
-        "50504fdb6fc2438dac6a51ef7510db35": 1,
-        "2753c81794018bf72fa0085808faae76": 2
+        "2753c81794018bf72fa0085808faae76": 2,
+        "b8ba052ccc137d256e0e37bcbb2ae641": 1,
+        "b017d8b4fbb345bcbfcd08b4fe7b9b3d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1TS028A-1700-0600-CT",
+          2,
+          "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
+          "BOOT,RST",
+          {
+            "Manufacturer Part": "1TS028A-1700-0600-CT",
+            "Manufacturer": "HYP(鸿源精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C481987"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0402",
+          "C1,C3,C5,C10",
+          {
+            "Manufacturer Part": "CL05B104KO5NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1525"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "CL10A106MQ8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1691"
+          }
+        ],
+        [
+          "1uF",
+          2,
+          "C0603",
+          "C4,C9",
+          {
+            "Manufacturer Part": "CL10A105KO8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1592"
+          }
+        ],
+        [
+          "10nF",
+          1,
+          "C0603",
+          "C6",
+          {
+            "Manufacturer Part": "CL10B103KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1589"
+          }
+        ],
+        [
+          "3.3nF",
+          1,
+          "C0603",
+          "C7",
+          {
+            "Manufacturer Part": "CL10B332KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1613"
+          }
+        ],
+        [
+          "100pF",
+          1,
+          "C0805",
+          "C11",
+          {
+            "Manufacturer Part": "CL21C101JBANNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1790"
+          }
+        ],
+        [
+          "20pF",
+          2,
+          "C0603",
+          "C13,C14",
+          {
+            "Manufacturer Part": "CL10C200JB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1648"
+          }
+        ],
+        [
+          "2nH",
+          1,
+          "L0402",
+          "L1",
+          {
+            "Manufacturer Part": "MLG1005S2N0BT000",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C76769"
+          }
+        ],
+        [
+          "PH-2AW",
+          1,
+          "CONN-TH_PH-2AW",
+          "PWR1",
+          {
+            "Manufacturer Part": "PH-2AW",
+            "Manufacturer": "CAX(创都)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C722769"
+          }
+        ],
+        [
+          "500Ω",
+          1,
+          "R0805",
+          "R1",
+          {
+            "Manufacturer Part": "ARG05BTC5000",
+            "Manufacturer": "Viking(光颉)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2828711"
+          }
+        ],
+        [
+          "20kΩ",
+          1,
+          "R1206",
+          "R5",
+          {
+            "Manufacturer Part": "1206W4F2002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18003"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
+          "RKJXM1015001",
+          1,
+          "SW-TH_RKJXM1015001",
+          "SW5",
+          {
+            "Manufacturer Part": "RKJXM1015004",
+            "Manufacturer": "ALPSALPINE(阿尔卑斯阿尔派)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C97432"
+          }
+        ],
+        [
+          "2541WV-2X04P",
+          1,
+          "HDR-TH_8P-P2.54-V-M-R2-C4-S2.54-3",
+          "U1",
+          {
+            "Manufacturer Part": "2541WV-2x04P",
+            "Manufacturer": "HanElectricity(瀚源)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5383105"
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "U2",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "AMS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6186"
+          }
+        ],
+        [
+          "2450 MHz",
+          1,
+          "FILTER-SMD_1206-2P-L3.2-W1.6-L",
+          "U3",
+          {
+            "Manufacturer Part": "RFANT3216120A5T",
+            "Manufacturer": "Walsin(华新科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C127629"
+          }
+        ],
+        [
+          "ESP32-D0WD-V3",
+          1,
+          "QFN-48_L5.0-W5.0-P0.35-BL-EP3.7",
+          "U5",
+          {
+            "Manufacturer Part": "ESP32-D0WD-V3",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C967021"
+          }
+        ],
+        [
+          "1625854-2",
+          1,
+          "TEST-RING",
+          "VDET_2",
+          {
+            "Manufacturer Part": "1625854-2",
+            "Manufacturer": "TE Connectivity(泰科电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C306063"
+          }
+        ],
+        [
+          "40MHz",
+          1,
+          "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
+          "X1",
+          {
+            "Manufacturer Part": "X322540MPB4SI",
+            "Manufacturer": "YXC(扬兴晶振)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9010"
+          }
+        ]
+      ],
+      "updateTime": 1736414849,
+      "createTime": 1735768380,
+      "histories": [],
+      "created_at": "2025-01-02 07:53:00",
+      "updated_at": "2025-01-09 19:27:29"
+    },
+    {
+      "uuid": "24d0199b1bd16bf6327aa1be0f8935be",
+      "title": "Input",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "164927b3407f4d6f9dd6ea2b175aa424": 1,
+        "8ff3f52df3c249d5bcb71a087fbd3742": 1,
+        "588dac9f81df8f83843513972963b454": 1
       },
       "BOM": [
         [
@@ -229,173 +497,15 @@
           }
         ],
         [
-          "ESP32-D0WD-V3",
+          "AMS1117-3.3",
           1,
-          "QFN-48_L5.0-W5.0-P0.35-BL-EP3.7",
-          "U5",
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "U2",
           {
-            "Manufacturer Part": "ESP32-D0WD-V3",
-            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "AMS",
             "Supplier": "LCSC",
-            "Supplier Part": "C967021"
-          }
-        ],
-        [
-          "1625854-2",
-          1,
-          "TEST-RING",
-          "VDET_2",
-          {
-            "Manufacturer Part": "1625854-2",
-            "Manufacturer": "TE Connectivity(泰科电子)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C306063"
-          }
-        ]
-      ],
-      "updateTime": 1736315763,
-      "createTime": 1735768380,
-      "histories": [],
-      "created_at": "2025-01-02 07:53:00",
-      "updated_at": "2025-01-08 15:56:03"
-    },
-    {
-      "uuid": "24d0199b1bd16bf6327aa1be0f8935be",
-      "title": "Input",
-      "description": "",
-      "docType": "1",
-      "master": "",
-      "thumb": "/images/thumb-default.png",
-      "components": {
-        "164927b3407f4d6f9dd6ea2b175aa424": 1,
-        "8ff3f52df3c249d5bcb71a087fbd3742": 1
-      },
-      "BOM": [
-        [
-          "Value",
-          "Quantity",
-          "Package",
-          "Components",
-          "CustomPara"
-        ],
-        [
-          "1TS028A-1700-0600-CT",
-          2,
-          "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
-          "BOOT-SW1,RST-SW1",
-          {
-            "Manufacturer Part": "1TS028A-1700-0600-CT",
-            "Manufacturer": "HYP(鸿源精密)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C481987"
-          }
-        ],
-        [
-          "10uF",
-          1,
-          "C0603",
-          "C4",
-          {
-            "Manufacturer Part": "CL10A106MQ8NNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1691"
-          }
-        ],
-        [
-          "100nF",
-          1,
-          "C0402",
-          "C5",
-          {
-            "Manufacturer Part": "CL05B104KO5NNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1525"
-          }
-        ],
-        [
-          "10nF",
-          1,
-          "C0603",
-          "C6",
-          {
-            "Manufacturer Part": "CL10B103KB8NNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1589"
-          }
-        ],
-        [
-          "3.3nF",
-          1,
-          "C0603",
-          "C7",
-          {
-            "Manufacturer Part": "CL10B332KB8NNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1613"
-          }
-        ],
-        [
-          "61300811821",
-          1,
-          "HDR-TH_8P-P2.54-V-F_61300811821",
-          "H1",
-          {
-            "Manufacturer Part": "61300811821",
-            "Manufacturer": "WURTH",
-            "Supplier": "LCSC",
-            "Supplier Part": "C5344743"
-          }
-        ],
-        [
-          "PH-2AW",
-          1,
-          "CONN-TH_PH-2AW",
-          "PWR1",
-          {
-            "Manufacturer Part": "PH-2AW",
-            "Manufacturer": "CAX(创都)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C722769"
-          }
-        ],
-        [
-          "20kΩ",
-          1,
-          "R1206",
-          "R5",
-          {
-            "Manufacturer Part": "1206W4F2002T5E",
-            "Manufacturer": "UNI-ROYAL(厚声)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C18003"
-          }
-        ],
-        [
-          "10kΩ",
-          1,
-          "R0603",
-          "R6",
-          {
-            "Manufacturer Part": "0603WAF1002T5E",
-            "Manufacturer": "UNI-ROYAL(厚声)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C25804"
-          }
-        ],
-        [
-          "RKJXM1015001",
-          1,
-          "SW-TH_RKJXM1015001",
-          "SW5",
-          {
-            "Manufacturer Part": "RKJXM1015004",
-            "Manufacturer": "ALPSALPINE(阿尔卑斯阿尔派)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C97432"
+            "Supplier Part": "C6186"
           }
         ],
         [
@@ -423,11 +533,11 @@
           }
         ]
       ],
-      "updateTime": 1736228018,
+      "updateTime": 1736405503,
       "createTime": 1736214939,
       "histories": [],
       "created_at": "2025-01-07 11:55:39",
-      "updated_at": "2025-01-07 15:33:38"
+      "updated_at": "2025-01-09 16:51:43"
     },
     {
       "uuid": "e0aa1722318468153f800c3a8ae58fc9",
@@ -440,7 +550,7 @@
         "b210af5a1436310a86e8b108e2e5a90b": 1,
         "22196e3baf094c2ca0c357b40d64e2a7": 2,
         "134a6a8cf09344b691a622b44280125c": 1,
-        "22e64648a0374d3aaa0441acbf380dac": 1
+        "15258c3730b7443bac637ed02a3a4403": 1
       },
       "BOM": [
         [
@@ -454,7 +564,7 @@
           "1TS028A-1700-0600-CT",
           2,
           "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
-          "BOOT-SW1,RST-SW1",
+          "BOOT,RST",
           {
             "Manufacturer Part": "1TS028A-1700-0600-CT",
             "Manufacturer": "HYP(鸿源精密)",
@@ -559,18 +669,6 @@
           }
         ],
         [
-          "40MHz",
-          1,
-          "OSC-SMD_4P-L5.0-W3.2-BL-1",
-          "OSC1",
-          {
-            "Manufacturer Part": "SX5M40.000B10F20TNN",
-            "Manufacturer": "SCTF(星通时频)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C5452714"
-          }
-        ],
-        [
           "PH-2AW",
           1,
           "CONN-TH_PH-2AW",
@@ -583,15 +681,15 @@
           }
         ],
         [
-          "500Ω",
+          "499Ω",
           1,
           "R0805",
-          "R1",
+          "R2",
           {
-            "Manufacturer Part": "ARG05BTC5000",
+            "Manufacturer Part": "ARG05BTC4990",
             "Manufacturer": "Viking(光颉)",
             "Supplier": "LCSC",
-            "Supplier Part": "C2828711"
+            "Supplier Part": "C2828739"
           }
         ],
         [
@@ -643,6 +741,30 @@
           }
         ],
         [
+          "AMS1117-3.3",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "U2",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "AMS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6186"
+          }
+        ],
+        [
+          "2450 MHz",
+          1,
+          "FILTER-SMD_1206-2P-L3.2-W1.6-L",
+          "U3",
+          {
+            "Manufacturer Part": "RFANT3216120A5T",
+            "Manufacturer": "Walsin(华新科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C127629"
+          }
+        ],
+        [
           "ESP32-D0WD-V3",
           1,
           "QFN-48_L5.0-W5.0-P0.35-BL-EP3.7",
@@ -665,13 +787,25 @@
             "Supplier": "LCSC",
             "Supplier Part": "C306063"
           }
+        ],
+        [
+          "40MHz",
+          1,
+          "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
+          "X1",
+          {
+            "Manufacturer Part": "X322540MPB4SI",
+            "Manufacturer": "YXC(扬兴晶振)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9010"
+          }
         ]
       ],
-      "updateTime": 1736315763,
+      "updateTime": 1736417671,
       "createTime": 1736214939,
       "histories": [],
       "created_at": "2025-01-07 11:55:39",
-      "updated_at": "2025-01-08 15:56:03"
+      "updated_at": "2025-01-09 20:14:31"
     },
     {
       "uuid": "a192c4170f021c055914f25ef59034c3",
@@ -683,11 +817,11 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "9efa05c10d1644a289325520eb81a9bb": 1,
         "0821ed6ea50c44f4909e4be7610e4198": 4,
-        "f8151fdc728a41ebbc304e11d39e5437": 5,
+        "f8151fdc728a41ebbc304e11d39e5437": 7,
         "2ee8eb13a0124a108e622ce40c0c25a8": 1,
         "8da96988a9164ab09ca115e01caf2944": 1,
-        "b60f399a7a7e41848b2be1eb49c79141": 1,
         "b9c3b33211824baa8a531b99233c985d": 1,
         "ee57e2a7da9d45198f6b3e4b2ca98ce3": 1,
         "6df5718716d94a79ae612cda6f53210a": 1,
@@ -695,7 +829,10 @@
         "398691f1f785460098bbe5ee6590333c": 1,
         "56ff7c5d8c924700af230c20758303ac": 1,
         "5097991214d64acd8259630f7811648f": 1,
-        "bb35fe0736874a7c99662696f46d1d41": 2
+        "02ae667aca734971be8a5f58143dd564": 1,
+        "e132634cd5c84eee80651aad71cf0dcc": 1,
+        "bb35fe0736874a7c99662696f46d1d41": 2,
+        "b60f399a7a7e41848b2be1eb49c79141": 1
       },
       "BOM": [
         [
@@ -754,11 +891,11 @@
           }
         ]
       ],
-      "updateTime": 1736311844,
+      "updateTime": 1736418790,
       "createTime": 1735794221,
       "histories": [],
       "created_at": "2025-01-02 15:03:41",
-      "updated_at": "2025-01-08 14:50:44"
+      "updated_at": "2025-01-09 20:33:10"
     }
   ],
   "sort": [
@@ -769,5 +906,5 @@
   "title": "BTOnly-SteeringWheelButtons",
   "foldername": "BTOnly-SteeringWheelButtons",
   "schfilename": "BTOnly-SteeringWheelButtonsV0.json",
-  "schfilemtime": 1736315763550
+  "schfilemtime": 1736417671156
 }
