@@ -4,7 +4,7 @@
   "name": "BTOnly-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-02 07:52:59",
-  "updated_at": "2025-01-09 23:07:41",
+  "updated_at": "2025-01-10 15:07:15",
   "stick": "",
   "documents": [
     {
@@ -16,7 +16,6 @@
       "thumb": "/images/thumb-default.png",
       "components": {
         "76dd581e24c34b49990b9267759aa244": 1,
-        "16f5c376e3ea4a19a3c71d71c72d3844": 1,
         "ca94110f4544769d36adda4b0515e409": 4,
         "19b44cfe75694691bfb693d3a727f555": 1,
         "6bc87021c356752573363354799bb887": 2,
@@ -158,15 +157,27 @@
           }
         ],
         [
-          "500Ω",
+          "10kΩ",
+          3,
+          "R0603",
+          "R1,R3,R6",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
+          "499Ω",
           1,
           "R0805",
-          "R1",
+          "R2",
           {
-            "Manufacturer Part": "ARG05BTC5000",
+            "Manufacturer Part": "ARG05BTC4990",
             "Manufacturer": "Viking(光颉)",
             "Supplier": "LCSC",
-            "Supplier Part": "C2828711"
+            "Supplier Part": "C2828739"
           }
         ],
         [
@@ -182,15 +193,15 @@
           }
         ],
         [
-          "10kΩ",
-          1,
-          "R0603",
-          "R6",
+          "MSK12C02",
+          2,
+          "SW-TH_MSK12C02",
+          "SKIPFLIP,VOLFLIP",
           {
-            "Manufacturer Part": "0603WAF1002T5E",
-            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Manufacturer Part": "MSK12C02",
+            "Manufacturer": "SHOU HAN(首韩)",
             "Supplier": "LCSC",
-            "Supplier Part": "C25804"
+            "Supplier Part": "C431540"
           }
         ],
         [
@@ -254,18 +265,6 @@
           }
         ],
         [
-          "1625854-2",
-          1,
-          "TEST-RING",
-          "VDET_2",
-          {
-            "Manufacturer Part": "1625854-2",
-            "Manufacturer": "TE Connectivity(泰科电子)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C306063"
-          }
-        ],
-        [
           "40MHz",
           1,
           "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
@@ -278,11 +277,11 @@
           }
         ]
       ],
-      "updateTime": 1736414849,
+      "updateTime": 1736484322,
       "createTime": 1735768380,
       "histories": [],
       "created_at": "2025-01-02 07:53:00",
-      "updated_at": "2025-01-09 19:27:29"
+      "updated_at": "2025-01-10 14:45:22"
     },
     {
       "uuid": "24d0199b1bd16bf6327aa1be0f8935be",
@@ -294,7 +293,9 @@
       "components": {
         "164927b3407f4d6f9dd6ea2b175aa424": 1,
         "8ff3f52df3c249d5bcb71a087fbd3742": 1,
-        "588dac9f81df8f83843513972963b454": 1
+        "588dac9f81df8f83843513972963b454": 1,
+        "20682c339523482a9e7bc335454b199a": 2,
+        "b210af5a1436310a86e8b108e2e5a90b": 2
       },
       "BOM": [
         [
@@ -308,7 +309,7 @@
           "1TS028A-1700-0600-CT",
           2,
           "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
-          "BOOT-SW1,RST-SW1",
+          "BOOT,RST",
           {
             "Manufacturer Part": "1TS028A-1700-0600-CT",
             "Manufacturer": "HYP(鸿源精密)",
@@ -413,22 +414,10 @@
           }
         ],
         [
-          "40MHz",
-          1,
-          "OSC-SMD_4P-L5.0-W3.2-BL-1",
-          "OSC1",
-          {
-            "Manufacturer Part": "SX5M40.000B10F20TNN",
-            "Manufacturer": "SCTF(星通时频)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C5452714"
-          }
-        ],
-        [
           "PH-2AW",
           1,
           "CONN-TH_PH-2AW",
-          "PWR1",
+          "PWR",
           {
             "Manufacturer Part": "PH-2AW",
             "Manufacturer": "CAX(创都)",
@@ -437,15 +426,27 @@
           }
         ],
         [
-          "500Ω",
+          "10kΩ",
+          3,
+          "R0603",
+          "R1,R3,R6",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
+          "499Ω",
           1,
           "R0805",
-          "R1",
+          "R2",
           {
-            "Manufacturer Part": "ARG05BTC5000",
+            "Manufacturer Part": "ARG05BTC4990",
             "Manufacturer": "Viking(光颉)",
             "Supplier": "LCSC",
-            "Supplier Part": "C2828711"
+            "Supplier Part": "C2828739"
           }
         ],
         [
@@ -461,15 +462,15 @@
           }
         ],
         [
-          "10kΩ",
-          1,
-          "R0603",
-          "R6",
+          "MSK12C02",
+          2,
+          "SW-TH_MSK12C02",
+          "SKIPFLIP,VOLFLIP",
           {
-            "Manufacturer Part": "0603WAF1002T5E",
-            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Manufacturer Part": "MSK12C02",
+            "Manufacturer": "SHOU HAN(首韩)",
             "Supplier": "LCSC",
-            "Supplier Part": "C25804"
+            "Supplier Part": "C431540"
           }
         ],
         [
@@ -509,6 +510,18 @@
           }
         ],
         [
+          "2450 MHz",
+          1,
+          "FILTER-SMD_1206-2P-L3.2-W1.6-L",
+          "U3",
+          {
+            "Manufacturer Part": "RFANT3216120A5T",
+            "Manufacturer": "Walsin(华新科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C127629"
+          }
+        ],
+        [
           "ESP32-D0WD-V3",
           1,
           "QFN-48_L5.0-W5.0-P0.35-BL-EP3.7",
@@ -521,23 +534,23 @@
           }
         ],
         [
-          "1625854-2",
+          "40MHz",
           1,
-          "TEST-RING",
-          "VDET_2",
+          "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
+          "X1",
           {
-            "Manufacturer Part": "1625854-2",
-            "Manufacturer": "TE Connectivity(泰科电子)",
+            "Manufacturer Part": "X322540MPB4SI",
+            "Manufacturer": "YXC(扬兴晶振)",
             "Supplier": "LCSC",
-            "Supplier Part": "C306063"
+            "Supplier Part": "C9010"
           }
         ]
       ],
-      "updateTime": 1736405503,
+      "updateTime": 1736484846,
       "createTime": 1736214939,
       "histories": [],
       "created_at": "2025-01-07 11:55:39",
-      "updated_at": "2025-01-09 16:51:43"
+      "updated_at": "2025-01-10 14:54:06"
     },
     {
       "uuid": "e0aa1722318468153f800c3a8ae58fc9",
@@ -681,6 +694,18 @@
           }
         ],
         [
+          "10kΩ",
+          3,
+          "R0603",
+          "R1,R3,R6",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
           "499Ω",
           1,
           "R0805",
@@ -705,15 +730,15 @@
           }
         ],
         [
-          "10kΩ",
-          1,
-          "R0603",
-          "R6",
+          "MSK12C02",
+          2,
+          "SW-TH_MSK12C02",
+          "SKIPFLIP,VOLFLIP",
           {
-            "Manufacturer Part": "0603WAF1002T5E",
-            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Manufacturer Part": "MSK12C02",
+            "Manufacturer": "SHOU HAN(首韩)",
             "Supplier": "LCSC",
-            "Supplier Part": "C25804"
+            "Supplier Part": "C431540"
           }
         ],
         [
@@ -801,11 +826,11 @@
           }
         ]
       ],
-      "updateTime": 1736417671,
+      "updateTime": 1736484203,
       "createTime": 1736214939,
       "histories": [],
       "created_at": "2025-01-07 11:55:39",
-      "updated_at": "2025-01-09 20:14:31"
+      "updated_at": "2025-01-10 14:43:23"
     },
     {
       "uuid": "a192c4170f021c055914f25ef59034c3",
@@ -817,22 +842,22 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "5097991214d64acd8259630f7811648f": 1,
+        "f66711cfd33f4c908e1bafbce46c9bda": 2,
+        "398691f1f785460098bbe5ee6590333c": 3,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "9efa05c10d1644a289325520eb81a9bb": 1,
         "0821ed6ea50c44f4909e4be7610e4198": 4,
         "f8151fdc728a41ebbc304e11d39e5437": 7,
         "2ee8eb13a0124a108e622ce40c0c25a8": 1,
         "8da96988a9164ab09ca115e01caf2944": 1,
         "b9c3b33211824baa8a531b99233c985d": 1,
-        "ee57e2a7da9d45198f6b3e4b2ca98ce3": 1,
         "6df5718716d94a79ae612cda6f53210a": 1,
         "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
-        "398691f1f785460098bbe5ee6590333c": 1,
         "56ff7c5d8c924700af230c20758303ac": 1,
-        "5097991214d64acd8259630f7811648f": 1,
         "02ae667aca734971be8a5f58143dd564": 1,
         "e132634cd5c84eee80651aad71cf0dcc": 1,
-        "bb35fe0736874a7c99662696f46d1d41": 2,
-        "b60f399a7a7e41848b2be1eb49c79141": 1,
-        "9efa05c10d1644a289325520eb81a9bb": 1
+        "bb35fe0736874a7c99662696f46d1d41": 2
       },
       "BOM": [
         [
@@ -891,11 +916,11 @@
           }
         ]
       ],
-      "updateTime": 1736428061,
+      "updateTime": 1736485635,
       "createTime": 1735794221,
       "histories": [],
       "created_at": "2025-01-02 15:03:41",
-      "updated_at": "2025-01-09 23:07:41"
+      "updated_at": "2025-01-10 15:07:15"
     }
   ],
   "sort": [
@@ -906,5 +931,5 @@
   "title": "BTOnly-SteeringWheelButtons",
   "foldername": "BTOnly-SteeringWheelButtons",
   "schfilename": "BTOnly-SteeringWheelButtonsV0.json",
-  "schfilemtime": 1736417671156
+  "schfilemtime": 1736484846139
 }
