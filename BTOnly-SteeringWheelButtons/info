@@ -4,7 +4,7 @@
   "name": "BTOnly-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-02 07:52:59",
-  "updated_at": "2025-01-10 15:07:15",
+  "updated_at": "2025-01-10 15:55:54",
   "stick": "",
   "documents": [
     {
@@ -685,7 +685,7 @@
           "PH-2AW",
           1,
           "CONN-TH_PH-2AW",
-          "PWR1",
+          "PWR",
           {
             "Manufacturer Part": "PH-2AW",
             "Manufacturer": "CAX(创都)",
@@ -802,18 +802,6 @@
           }
         ],
         [
-          "1625854-2",
-          1,
-          "TEST-RING",
-          "VDET_2",
-          {
-            "Manufacturer Part": "1625854-2",
-            "Manufacturer": "TE Connectivity(泰科电子)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C306063"
-          }
-        ],
-        [
           "40MHz",
           1,
           "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
@@ -826,11 +814,11 @@
           }
         ]
       ],
-      "updateTime": 1736484203,
+      "updateTime": 1736487226,
       "createTime": 1736214939,
       "histories": [],
       "created_at": "2025-01-07 11:55:39",
-      "updated_at": "2025-01-10 14:43:23"
+      "updated_at": "2025-01-10 15:33:46"
     },
     {
       "uuid": "a192c4170f021c055914f25ef59034c3",
@@ -916,11 +904,11 @@
           }
         ]
       ],
-      "updateTime": 1736485635,
+      "updateTime": 1736488554,
       "createTime": 1735794221,
       "histories": [],
       "created_at": "2025-01-02 15:03:41",
-      "updated_at": "2025-01-10 15:07:15"
+      "updated_at": "2025-01-10 15:55:54"
     }
   ],
   "sort": [
@@ -931,5 +919,5 @@
   "title": "BTOnly-SteeringWheelButtons",
   "foldername": "BTOnly-SteeringWheelButtons",
   "schfilename": "BTOnly-SteeringWheelButtonsV0.json",
-  "schfilemtime": 1736484846139
+  "schfilemtime": 1736487226161
 }
