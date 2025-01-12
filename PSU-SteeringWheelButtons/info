@@ -4,7 +4,7 @@
   "name": "PSU-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-07 13:12:29",
-  "updated_at": "2025-01-09 17:39:09",
+  "updated_at": "2025-01-12 18:11:38",
   "stick": "",
   "documents": [
     {
@@ -27,7 +27,9 @@
         "b210af5a1436310a86e8b108e2e5a90b": 1,
         "46f1bddb13718b956bc881937fa37c8b": 1,
         "17315f8d9a524daeaa947917f79adb12": 1,
-        "1258c9dddfd347b5a953749b82509847": 1
+        "1258c9dddfd347b5a953749b82509847": 1,
+        "3c5bf3d52b8a4bbca1d1a3a4c2ff1185": 1,
+        "13fbe66358ac415f8f844f8a7a60755f": 1
       },
       "BOM": [
         [
@@ -182,6 +184,18 @@
           }
         ],
         [
+          "WJ500V-5.08-2P-13-00A",
+          1,
+          "CONN-TH_2P-P5.08-WJ500V-5.08-2P",
+          "U2",
+          {
+            "Manufacturer Part": "WJ500V-5.08-2P-13-00A",
+            "Manufacturer": "KANGNEX(康奈克斯电气)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C42377752"
+          }
+        ],
+        [
           "TPS5430DDAR",
           1,
           "ESOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP",
@@ -192,13 +206,25 @@
             "Supplier": "LCSC",
             "Supplier Part": "C9864"
           }
+        ],
+        [
+          "12",
+          1,
+          "HDR1X2",
+          "V1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
         ]
       ],
-      "updateTime": 1736406268,
+      "updateTime": 1736669498,
       "createTime": 1736219567,
       "histories": [],
       "created_at": "2025-01-07 13:12:47",
-      "updated_at": "2025-01-09 17:04:28"
+      "updated_at": "2025-01-12 18:11:38"
     },
     {
       "uuid": "1ead83427939d0747b2092f965f59a33",
@@ -314,11 +340,11 @@
           }
         ]
       ],
-      "updateTime": 1736408349,
+      "updateTime": 1736669007,
       "createTime": 1736220260,
       "histories": [],
       "created_at": "2025-01-07 13:24:20",
-      "updated_at": "2025-01-09 17:39:09"
+      "updated_at": "2025-01-12 18:03:27"
     }
   ],
   "sort": [
@@ -331,5 +357,5 @@
   "title": "PSU-SteeringWheelButtons",
   "foldername": "PSU-SteeringWheelButtons",
   "schfilename": "PSU-SteeringWheelButtons.json",
-  "schfilemtime": 1736406268956
+  "schfilemtime": 1736669498161
 }

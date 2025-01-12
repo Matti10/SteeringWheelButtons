@@ -4,7 +4,7 @@
   "name": "BTOnly-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-02 07:52:59",
-  "updated_at": "2025-01-10 15:55:54",
+  "updated_at": "2025-01-12 17:59:50",
   "stick": "",
   "documents": [
     {
@@ -823,8 +823,8 @@
     {
       "uuid": "a192c4170f021c055914f25ef59034c3",
       "puuid": "ccaf1b2d1c50a4cbbf47141f8ed2e9d4",
-      "title": "PCB_SteeringWheelButtonsV0_2",
-      "filename": "PCB_SteeringWheelButtonsV0_2.json",
+      "title": "btOnlyPCB",
+      "filename": "btOnlyPCB.json",
       "description": "",
       "docType": "3",
       "master": "",
@@ -904,11 +904,11 @@
           }
         ]
       ],
-      "updateTime": 1736488554,
+      "updateTime": 1736668790,
       "createTime": 1735794221,
       "histories": [],
       "created_at": "2025-01-02 15:03:41",
-      "updated_at": "2025-01-10 15:55:54"
+      "updated_at": "2025-01-12 17:59:50"
     }
   ],
   "sort": [
