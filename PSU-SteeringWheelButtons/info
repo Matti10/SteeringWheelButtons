@@ -4,7 +4,7 @@
   "name": "PSU-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-07 13:12:29",
-  "updated_at": "2025-01-12 18:11:38",
+  "updated_at": "2025-01-14 15:09:32",
   "stick": "",
   "documents": [
     {
@@ -28,8 +28,7 @@
         "46f1bddb13718b956bc881937fa37c8b": 1,
         "17315f8d9a524daeaa947917f79adb12": 1,
         "1258c9dddfd347b5a953749b82509847": 1,
-        "3c5bf3d52b8a4bbca1d1a3a4c2ff1185": 1,
-        "13fbe66358ac415f8f844f8a7a60755f": 1
+        "3c5bf3d52b8a4bbca1d1a3a4c2ff1185": 1
       },
       "BOM": [
         [
@@ -206,25 +205,13 @@
             "Supplier": "LCSC",
             "Supplier Part": "C9864"
           }
-        ],
-        [
-          "12",
-          1,
-          "HDR1X2",
-          "V1",
-          {
-            "Manufacturer Part": "",
-            "Manufacturer": "",
-            "Supplier": "",
-            "Supplier Part": ""
-          }
         ]
       ],
-      "updateTime": 1736669498,
+      "updateTime": 1736831372,
       "createTime": 1736219567,
       "histories": [],
       "created_at": "2025-01-07 13:12:47",
-      "updated_at": "2025-01-12 18:11:38"
+      "updated_at": "2025-01-14 15:09:32"
     },
     {
       "uuid": "1ead83427939d0747b2092f965f59a33",
@@ -357,5 +344,5 @@
   "title": "PSU-SteeringWheelButtons",
   "foldername": "PSU-SteeringWheelButtons",
   "schfilename": "PSU-SteeringWheelButtons.json",
-  "schfilemtime": 1736669498161
+  "schfilemtime": 1736831372401
 }
