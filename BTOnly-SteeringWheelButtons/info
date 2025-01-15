@@ -4,7 +4,7 @@
   "name": "BTOnly-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-02 07:52:59",
-  "updated_at": "2025-01-14 15:51:36",
+  "updated_at": "2025-01-15 15:00:54",
   "stick": "",
   "documents": [
     {
@@ -148,7 +148,7 @@
           "PH-2AW",
           1,
           "CONN-TH_PH-2AW",
-          "PWR1",
+          "PWR",
           {
             "Manufacturer Part": "PH-2AW",
             "Manufacturer": "CAX(创都)",
@@ -277,11 +277,11 @@
           }
         ]
       ],
-      "updateTime": 1736484322,
+      "updateTime": 1736917254,
       "createTime": 1735768380,
       "histories": [],
       "created_at": "2025-01-02 07:53:00",
-      "updated_at": "2025-01-10 14:45:22"
+      "updated_at": "2025-01-15 15:00:54"
     },
     {
       "uuid": "24d0199b1bd16bf6327aa1be0f8935be",
@@ -919,5 +919,5 @@
   "title": "BTOnly-SteeringWheelButtons",
   "foldername": "BTOnly-SteeringWheelButtons",
   "schfilename": "BTOnly-SteeringWheelButtonsV0.json",
-  "schfilemtime": 1736487226161
+  "schfilemtime": 1736917254236
 }

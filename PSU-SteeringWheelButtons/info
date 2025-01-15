@@ -4,7 +4,7 @@
   "name": "PSU-SteeringWheelButtons",
   "content": "",
   "created_at": "2025-01-07 13:12:29",
-  "updated_at": "2025-01-14 15:09:32",
+  "updated_at": "2025-01-15 09:52:50",
   "stick": "",
   "documents": [
     {
@@ -223,6 +223,7 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "de67cb977aae436893eb213d7e225f81": 1,
         "f8151fdc728a41ebbc304e11d39e5437": 1,
         "0821ed6ea50c44f4909e4be7610e4198": 1,
         "46d16da1fb5d452abbac0803161d9f52": 1,
@@ -327,11 +328,11 @@
           }
         ]
       ],
-      "updateTime": 1736669007,
+      "updateTime": 1736898770,
       "createTime": 1736220260,
       "histories": [],
       "created_at": "2025-01-07 13:24:20",
-      "updated_at": "2025-01-12 18:03:27"
+      "updated_at": "2025-01-15 09:52:50"
     }
   ],
   "sort": [
