@@ -1,0 +1,289 @@
+{
+  "uuid": "7b732aa64a67eb2727eb16d9de9b086c",
+  "path": "Offline/ShiftLights",
+  "name": "ShiftLights",
+  "content": "",
+  "created_at": "2025-01-17 10:08:49",
+  "updated_at": "2025-01-22 17:19:34",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "05e8ba592579a19020d0fc529cb4f59a",
+      "title": "LEDs",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e0723aae4a0f4a769fd60d3d7b28fb45": 18,
+        "ca94110f4544769d36adda4b0515e409": 18,
+        "e068743114a8fa3ac533090fedbcc423": 1,
+        "7ead2c3f0e64d4777e91f81ba28fb127": 1,
+        "b210af5a1436310a86e8b108e2e5a90b": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          22,
+          "C0402",
+          "C1,C3,C5,C8,C10,C12,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24,C26,C27,C28,C29,C30,C31",
+          {
+            "Manufacturer Part": "CL05B104KO5NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1525"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "CL10A106MQ8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1691"
+          }
+        ],
+        [
+          "1uF",
+          2,
+          "C0603",
+          "C4,C9",
+          {
+            "Manufacturer Part": "CL10A105KO8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1592"
+          }
+        ],
+        [
+          "10nF",
+          1,
+          "C0603",
+          "C6",
+          {
+            "Manufacturer Part": "CL10B103KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1589"
+          }
+        ],
+        [
+          "3.3nF",
+          1,
+          "C0603",
+          "C7",
+          {
+            "Manufacturer Part": "CL10B332KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1613"
+          }
+        ],
+        [
+          "100pF",
+          1,
+          "C0805",
+          "C11",
+          {
+            "Manufacturer Part": "CL21C101JBANNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1790"
+          }
+        ],
+        [
+          "20pF",
+          2,
+          "C0603",
+          "C13,C14",
+          {
+            "Manufacturer Part": "CL10C200JB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1648"
+          }
+        ],
+        [
+          "220pF",
+          1,
+          "C0402",
+          "C25",
+          {
+            "Manufacturer Part": "0402B221K500NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1530"
+          }
+        ],
+        [
+          "19-C47/RSGHBHC-5V01/2T",
+          18,
+          "LED_19-C47/RSGHBHC-5V01/2T",
+          "D1,D2,D3,D4,D5,D6,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2nH",
+          1,
+          "L0402",
+          "L1",
+          {
+            "Manufacturer Part": "MLG1005S2N0BT000",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C76769"
+          }
+        ],
+        [
+          "470Ω",
+          1,
+          "R0805",
+          "R1",
+          {
+            "Manufacturer Part": "0805W8F4700T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17710"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0603",
+          "R3",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
+          "20kΩ",
+          1,
+          "R1206",
+          "R5",
+          {
+            "Manufacturer Part": "1206W4F2002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18003"
+          }
+        ],
+        [
+          "2450 MHz",
+          1,
+          "FILTER-SMD_1206-2P-L3.2-W1.6-L",
+          "U3",
+          {
+            "Manufacturer Part": "RFANT3216120A5T",
+            "Manufacturer": "Walsin(华新科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C127629"
+          }
+        ],
+        [
+          "ESP32-D0WD-V3",
+          1,
+          "QFN-48_L5.0-W5.0-P0.35-BL-EP3.7",
+          "U5",
+          {
+            "Manufacturer Part": "ESP32-D0WD-V3",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C967021"
+          }
+        ],
+        [
+          "40MHz",
+          1,
+          "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
+          "X1",
+          {
+            "Manufacturer Part": "X322540MPB4SI",
+            "Manufacturer": "YXC(扬兴晶振)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9010"
+          }
+        ]
+      ],
+      "updateTime": 1737513055,
+      "createTime": 1737072530,
+      "histories": [],
+      "created_at": "2025-01-17 10:08:50",
+      "updated_at": "2025-01-22 12:30:55"
+    },
+    {
+      "uuid": "1df1dfb4b97b6443a5fb99747fc712c7",
+      "puuid": "7b732aa64a67eb2727eb16d9de9b086c",
+      "title": "PCB_ShiftLights",
+      "filename": "PCB_ShiftLights.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c10454cdad3c45e4b50b436c197bd0a1": 18,
+        "0821ed6ea50c44f4909e4be7610e4198": 23,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "f8151fdc728a41ebbc304e11d39e5437": 7,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 1,
+        "8da96988a9164ab09ca115e01caf2944": 1,
+        "398691f1f785460098bbe5ee6590333c": 1,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "9efa05c10d1644a289325520eb81a9bb": 1,
+        "56ff7c5d8c924700af230c20758303ac": 1,
+        "e132634cd5c84eee80651aad71cf0dcc": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "19-C47/RSGHBHC-5V01/2T",
+          7,
+          "LED_19-C47/RSGHBHC-5V01/2T",
+          "D1,D2,D3,D4,D5,D6,D7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1737530374,
+      "createTime": 1737076415,
+      "histories": [],
+      "created_at": "2025-01-17 11:13:35",
+      "updated_at": "2025-01-22 17:19:34"
+    }
+  ],
+  "sort": [
+    "05e8ba592579a19020d0fc529cb4f59a",
+    "ed315b9960bc597906859c3f7cfb030b"
+  ],
+  "title": "ShiftLights",
+  "foldername": "ShiftLights",
+  "schfilename": "ShiftLights.json",
+  "schfilemtime": 1737513055515
+}
