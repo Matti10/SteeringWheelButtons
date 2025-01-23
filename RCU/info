@@ -4,7 +4,7 @@
   "name": "RCU",
   "content": "Resu-Control-Unit :)",
   "created_at": "2025-01-22 12:18:04",
-  "updated_at": "2025-01-22 22:28:13",
+  "updated_at": "2025-01-23 15:56:44",
   "stick": "",
   "documents": [
     {
@@ -25,9 +25,9 @@
         "2847cae2e8364e6c8fff2920ede7f551": 1,
         "b210af5a1436310a86e8b108e2e5a90b": 1,
         "46f1bddb13718b956bc881937fa37c8b": 1,
-        "17315f8d9a524daeaa947917f79adb12": 1,
         "1258c9dddfd347b5a953749b82509847": 1,
-        "3c5bf3d52b8a4bbca1d1a3a4c2ff1185": 1
+        "3c5bf3d52b8a4bbca1d1a3a4c2ff1185": 1,
+        "83051cc01fe74e399277594262a6d662": 1
       },
       "BOM": [
         [
@@ -266,18 +266,6 @@
           }
         ],
         [
-          "CDRH104R-150NC",
-          1,
-          "IND-SMD_L10.0-W10.0_SUMIDA_CDRH104",
-          "U1",
-          {
-            "Manufacturer Part": "CDRH104R-150NC",
-            "Manufacturer": "Sumida(胜美达)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C19462961"
-          }
-        ],
-        [
           "WJ500V-5.08-2P-13-00A",
           1,
           "CONN-TH_2P-P5.08-WJ500V-5.08-2P",
@@ -362,6 +350,18 @@
           }
         ],
         [
+          "15uH",
+          1,
+          "IND-SMD_L7.2-W6.6_GPSR07X0",
+          "U9",
+          {
+            "Manufacturer Part": "CYA0630-15UH",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5189959"
+          }
+        ],
+        [
           "40MHz",
           1,
           "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
@@ -374,11 +374,11 @@
           }
         ]
       ],
-      "updateTime": 1737534458,
+      "updateTime": 1737600644,
       "createTime": 1737512305,
       "histories": [],
       "created_at": "2025-01-22 12:18:25",
-      "updated_at": "2025-01-22 18:27:38"
+      "updated_at": "2025-01-23 12:50:44"
     },
     {
       "uuid": "27951e72f67f2fd4c279d96fdcd706be",
@@ -387,11 +387,11 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "updateTime": 1737532228,
+      "updateTime": 1737602419,
       "createTime": 1737512316,
       "histories": [],
       "created_at": "2025-01-22 12:18:36",
-      "updated_at": "2025-01-22 17:50:28",
+      "updated_at": "2025-01-23 13:20:19",
       "BOM": [
         [
           "Value",
@@ -401,15 +401,15 @@
           "CustomPara"
         ],
         [
-          "1625854-2",
-          2,
-          "TEST-RING",
-          "5V,GND",
+          "2450AT18A100E",
+          1,
+          "ANT-SMD_L3.2-W1.6",
+          "AE1",
           {
-            "Manufacturer Part": "1625854-2",
-            "Manufacturer": "TE Connectivity(泰科电子)",
+            "Manufacturer Part": "2450AT18A100E",
+            "Manufacturer": "JOHANSON(约翰逊)",
             "Supplier": "LCSC",
-            "Supplier Part": "C306063"
+            "Supplier Part": "C89334"
           }
         ],
         [
@@ -641,18 +641,6 @@
           }
         ],
         [
-          "CDRH104R-150NC",
-          1,
-          "IND-SMD_L10.0-W10.0_SUMIDA_CDRH104",
-          "U1",
-          {
-            "Manufacturer Part": "CDRH104R-150NC",
-            "Manufacturer": "Sumida(胜美达)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C19462961"
-          }
-        ],
-        [
           "WJ500V-5.08-2P-13-00A",
           1,
           "CONN-TH_2P-P5.08-WJ500V-5.08-2P",
@@ -713,18 +701,6 @@
           }
         ],
         [
-          "2450 MHz",
-          1,
-          "FILTER-SMD_1206-2P-L3.2-W1.6-L",
-          "U7",
-          {
-            "Manufacturer Part": "RFANT3216120A5T",
-            "Manufacturer": "Walsin(华新科)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C127629"
-          }
-        ],
-        [
           "SN65HVD230DR",
           1,
           "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
@@ -734,6 +710,18 @@
             "Manufacturer": "TI(德州仪器)",
             "Supplier": "LCSC",
             "Supplier Part": "C12084"
+          }
+        ],
+        [
+          "15uH",
+          1,
+          "IND-SMD_L7.2-W6.6_GPSR07X0",
+          "U9",
+          {
+            "Manufacturer Part": "CYA0630-15UH",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5189959"
           }
         ],
         [
@@ -761,7 +749,7 @@
         "2753c81794018bf72fa0085808faae76": 2,
         "b8ba052ccc137d256e0e37bcbb2ae641": 1,
         "bafbb01c9137bfb945474bf841ee2d4b": 1,
-        "b017d8b4fbb345bcbfcd08b4fe7b9b3d": 1
+        "601f9e8c4c4944d19f637adedcead3ea": 1
       }
     },
     {
@@ -1525,6 +1513,8 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "e32edcd15f0b4f8c8caa0332cd5ce2fe": 1,
+        "ebbbb17eba5a414f8bd83c157683b84c": 1,
         "806a55eb4d3c40ab838f70f86785d85e": 1,
         "bb35fe0736874a7c99662696f46d1d41": 2,
         "0821ed6ea50c44f4909e4be7610e4198": 5,
@@ -1538,13 +1528,11 @@
         "398691f1f785460098bbe5ee6590333c": 5,
         "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
         "b60f399a7a7e41848b2be1eb49c79141": 1,
-        "131d9693acdc435e8cb7dd934471e22c": 1,
         "de67cb977aae436893eb213d7e225f81": 1,
         "42f7f0bd90ab4b2b8d2a5b5861d7f4d8": 1,
         "b9c3b33211824baa8a531b99233c985d": 1,
         "56ff7c5d8c924700af230c20758303ac": 1,
         "02ae667aca734971be8a5f58143dd564": 1,
-        "9efa05c10d1644a289325520eb81a9bb": 1,
         "e132634cd5c84eee80651aad71cf0dcc": 1
       },
       "BOM": [
@@ -1892,11 +1880,11 @@
           }
         ]
       ],
-      "updateTime": 1737548893,
+      "updateTime": 1737611804,
       "createTime": 1737512742,
       "histories": [],
       "created_at": "2025-01-22 12:25:42",
-      "updated_at": "2025-01-22 22:28:13"
+      "updated_at": "2025-01-23 15:56:44"
     }
   ],
   "sort": [
@@ -1908,5 +1896,5 @@
   "title": "RCU",
   "foldername": "RCU",
   "schfilename": "RCU.json",
-  "schfilemtime": 1737534458098
+  "schfilemtime": 1737602419444
 }
