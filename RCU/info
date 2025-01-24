@@ -4,7 +4,7 @@
   "name": "RCU",
   "content": "Resu-Control-Unit :)",
   "created_at": "2025-01-22 12:18:04",
-  "updated_at": "2025-01-23 15:56:44",
+  "updated_at": "2025-01-24 15:54:47",
   "stick": "",
   "documents": [
     {
@@ -387,11 +387,11 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "updateTime": 1737602419,
+      "updateTime": 1737688862,
       "createTime": 1737512316,
       "histories": [],
       "created_at": "2025-01-22 12:18:36",
-      "updated_at": "2025-01-23 13:20:19",
+      "updated_at": "2025-01-24 13:21:02",
       "BOM": [
         [
           "Value",
@@ -401,34 +401,22 @@
           "CustomPara"
         ],
         [
-          "2450AT18A100E",
+          "SK12D07VG3",
           1,
-          "ANT-SMD_L3.2-W1.6",
-          "AE1",
+          "SW-TH_SK12D07VG3",
+          "BOOT",
           {
-            "Manufacturer Part": "2450AT18A100E",
-            "Manufacturer": "JOHANSON(约翰逊)",
+            "Manufacturer Part": "SK12D07VG3",
+            "Manufacturer": "ReliaPro",
             "Supplier": "LCSC",
-            "Supplier Part": "C89334"
-          }
-        ],
-        [
-          "1TS028A-1700-0600-CT",
-          2,
-          "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
-          "BOOT1,RST1",
-          {
-            "Manufacturer Part": "1TS028A-1700-0600-CT",
-            "Manufacturer": "HYP(鸿源精密)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C481987"
+            "Supplier Part": "C38264"
           }
         ],
         [
           "100nF",
-          5,
+          3,
           "C0402",
-          "C1,C3,C5,C8,C10",
+          "C1,C4,C8",
           {
             "Manufacturer Part": "CL05B104KO5NNNC",
             "Manufacturer": "SAMSUNG(三星)",
@@ -437,22 +425,22 @@
           }
         ],
         [
-          "10uF",
-          2,
-          "C0603",
-          "C2,C7",
+          "22uF",
+          1,
+          "C0402",
+          "C2",
           {
-            "Manufacturer Part": "CL10A106MQ8NNNC",
+            "Manufacturer Part": "CL05A226MQ5QUNC",
             "Manufacturer": "SAMSUNG(三星)",
             "Supplier": "LCSC",
-            "Supplier Part": "C1691"
+            "Supplier Part": "C105226"
           }
         ],
         [
           "1uF",
-          2,
+          1,
           "C0603",
-          "C4,C12",
+          "C3",
           {
             "Manufacturer Part": "CL10A105KO8NNNC",
             "Manufacturer": "SAMSUNG(三星)",
@@ -461,15 +449,15 @@
           }
         ],
         [
-          "10nF",
+          "10uF",
           1,
           "C0603",
-          "C6",
+          "C7",
           {
-            "Manufacturer Part": "CL10B103KB8NNNC",
+            "Manufacturer Part": "CL10A106MQ8NNNC",
             "Manufacturer": "SAMSUNG(三星)",
             "Supplier": "LCSC",
-            "Supplier Part": "C1589"
+            "Supplier Part": "C1691"
           }
         ],
         [
@@ -482,42 +470,6 @@
             "Manufacturer": "PANASONIC(松下)",
             "Supplier": "LCSC",
             "Supplier Part": "C242173"
-          }
-        ],
-        [
-          "100pF",
-          1,
-          "C0805",
-          "C11",
-          {
-            "Manufacturer Part": "CL21C101JBANNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1790"
-          }
-        ],
-        [
-          "20pF",
-          2,
-          "C0603",
-          "C13,C14",
-          {
-            "Manufacturer Part": "CL10C200JB8NNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1648"
-          }
-        ],
-        [
-          "3.3nF",
-          1,
-          "C0603",
-          "C15",
-          {
-            "Manufacturer Part": "CL10B332KB8NNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1613"
           }
         ],
         [
@@ -557,18 +509,6 @@
           }
         ],
         [
-          "2nH",
-          1,
-          "L0402",
-          "L1",
-          {
-            "Manufacturer Part": "MLG1005S2N0BT000",
-            "Manufacturer": "TDK",
-            "Supplier": "LCSC",
-            "Supplier Part": "C76769"
-          }
-        ],
-        [
           "100kΩ",
           1,
           "R0603",
@@ -594,9 +534,9 @@
         ],
         [
           "10kΩ",
-          2,
+          3,
           "R0603",
-          "R3,R7",
+          "R3,R5,R7",
           {
             "Manufacturer Part": "0603WAF1002T5E",
             "Manufacturer": "UNI-ROYAL(厚声)",
@@ -617,27 +557,27 @@
           }
         ],
         [
-          "20kΩ",
+          "1TS028A-1700-0600-CT",
           1,
-          "R1206",
-          "R5",
+          "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
+          "RST",
           {
-            "Manufacturer Part": "1206W4F2002T5E",
-            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Manufacturer Part": "1TS028A-1700-0600-CT",
+            "Manufacturer": "HYP(鸿源精密)",
             "Supplier": "LCSC",
-            "Supplier Part": "C18003"
+            "Supplier Part": "C481987"
           }
         ],
         [
-          "499Ω",
+          "ESP32-PICO-MINI-02U-N8R2",
           1,
-          "R0805",
-          "R6",
+          "BULETM-SMD_ESP32-PICO-MINI-02U",
+          "U1",
           {
-            "Manufacturer Part": "ARG05BTC4990",
-            "Manufacturer": "Viking(光颉)",
+            "Manufacturer Part": "ESP32-PICO-MINI-02U-N8R2",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
             "Supplier": "LCSC",
-            "Supplier Part": "C2828739"
+            "Supplier Part": "C3013939"
           }
         ],
         [
@@ -674,18 +614,6 @@
             "Manufacturer": "HanElectricity(瀚源)",
             "Supplier": "LCSC",
             "Supplier Part": "C5383105"
-          }
-        ],
-        [
-          "ESP32-D0WD-V3",
-          1,
-          "QFN-48_L5.0-W5.0-P0.35-BL-EP3.7",
-          "U5",
-          {
-            "Manufacturer Part": "ESP32-D0WD-V3",
-            "Manufacturer": "ESPRESSIF(乐鑫)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C967021"
           }
         ],
         [
@@ -723,33 +651,14 @@
             "Supplier": "LCSC",
             "Supplier Part": "C5189959"
           }
-        ],
-        [
-          "40MHz",
-          1,
-          "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
-          "X1",
-          {
-            "Manufacturer Part": "X322540MPB4SI",
-            "Manufacturer": "YXC(扬兴晶振)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C9010"
-          }
         ]
       ],
       "components": {
-        "76dd581e24c34b49990b9267759aa244": 1,
-        "ca94110f4544769d36adda4b0515e409": 4,
-        "19b44cfe75694691bfb693d3a727f555": 1,
-        "3b6654f52e8f4e32b1ed9f858d357e92": 1,
-        "bf5cc8618d7c257bd5a02123a82ee2c9": 1,
-        "6bc87021c356752573363354799bb887": 2,
-        "a367f7ea4defbf69140b8d3a5dadf2de": 1,
-        "17c672b5a8dc30426a9c5eb7f19b5378": 1,
-        "2753c81794018bf72fa0085808faae76": 2,
-        "b8ba052ccc137d256e0e37bcbb2ae641": 1,
-        "bafbb01c9137bfb945474bf841ee2d4b": 1,
-        "601f9e8c4c4944d19f637adedcead3ea": 1
+        "4c4a8e9b4821465ca3748872295838a5": 1,
+        "ca94110f4544769d36adda4b0515e409": 1,
+        "6bc87021c356752573363354799bb887": 1,
+        "b210af5a1436310a86e8b108e2e5a90b": 1,
+        "ccf6f15034ab4a7d8e9b041de74246a9": 1
       }
     },
     {
@@ -759,11 +668,11 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "updateTime": 1737533987,
+      "updateTime": 1737688444,
       "createTime": 1737512336,
       "histories": [],
       "created_at": "2025-01-22 12:18:56",
-      "updated_at": "2025-01-22 18:19:47",
+      "updated_at": "2025-01-24 13:14:04",
       "BOM": [
         [
           "Value",
@@ -773,34 +682,22 @@
           "CustomPara"
         ],
         [
-          "1625854-2",
-          2,
-          "TEST-RING",
-          "5V,GND",
+          "SK12D07VG3",
+          1,
+          "SW-TH_SK12D07VG3",
+          "BOOT",
           {
-            "Manufacturer Part": "1625854-2",
-            "Manufacturer": "TE Connectivity(泰科电子)",
+            "Manufacturer Part": "SK12D07VG3",
+            "Manufacturer": "ReliaPro",
             "Supplier": "LCSC",
-            "Supplier Part": "C306063"
-          }
-        ],
-        [
-          "1TS028A-1700-0600-CT",
-          2,
-          "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
-          "BOOT1,RST1",
-          {
-            "Manufacturer Part": "1TS028A-1700-0600-CT",
-            "Manufacturer": "HYP(鸿源精密)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C481987"
+            "Supplier Part": "C38264"
           }
         ],
         [
           "100nF",
-          5,
+          3,
           "C0402",
-          "C1,C3,C5,C8,C10",
+          "C1,C4,C8",
           {
             "Manufacturer Part": "CL05B104KO5NNNC",
             "Manufacturer": "SAMSUNG(三星)",
@@ -809,22 +706,22 @@
           }
         ],
         [
-          "10uF",
-          2,
-          "C0603",
-          "C2,C7",
+          "22uF",
+          1,
+          "C1206",
+          "C2",
           {
-            "Manufacturer Part": "CL10A106MQ8NNNC",
+            "Manufacturer Part": "CL31A226KAHNNNE",
             "Manufacturer": "SAMSUNG(三星)",
             "Supplier": "LCSC",
-            "Supplier Part": "C1691"
+            "Supplier Part": "C12891"
           }
         ],
         [
           "1uF",
-          2,
+          1,
           "C0603",
-          "C4,C12",
+          "C3",
           {
             "Manufacturer Part": "CL10A105KO8NNNC",
             "Manufacturer": "SAMSUNG(三星)",
@@ -833,15 +730,15 @@
           }
         ],
         [
-          "10nF",
+          "10uF",
           1,
           "C0603",
-          "C6",
+          "C7",
           {
-            "Manufacturer Part": "CL10B103KB8NNNC",
+            "Manufacturer Part": "CL10A106MQ8NNNC",
             "Manufacturer": "SAMSUNG(三星)",
             "Supplier": "LCSC",
-            "Supplier Part": "C1589"
+            "Supplier Part": "C1691"
           }
         ],
         [
@@ -854,42 +751,6 @@
             "Manufacturer": "PANASONIC(松下)",
             "Supplier": "LCSC",
             "Supplier Part": "C242173"
-          }
-        ],
-        [
-          "100pF",
-          1,
-          "C0805",
-          "C11",
-          {
-            "Manufacturer Part": "CL21C101JBANNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1790"
-          }
-        ],
-        [
-          "20pF",
-          2,
-          "C0603",
-          "C13,C14",
-          {
-            "Manufacturer Part": "CL10C200JB8NNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1648"
-          }
-        ],
-        [
-          "3.3nF",
-          1,
-          "C0603",
-          "C15",
-          {
-            "Manufacturer Part": "CL10B332KB8NNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1613"
           }
         ],
         [
@@ -929,18 +790,6 @@
           }
         ],
         [
-          "2nH",
-          1,
-          "L0402",
-          "L1",
-          {
-            "Manufacturer Part": "MLG1005S2N0BT000",
-            "Manufacturer": "TDK",
-            "Supplier": "LCSC",
-            "Supplier Part": "C76769"
-          }
-        ],
-        [
           "100kΩ",
           1,
           "R0603",
@@ -966,9 +815,9 @@
         ],
         [
           "10kΩ",
-          2,
+          3,
           "R0603",
-          "R3,R7",
+          "R3,R5,R7",
           {
             "Manufacturer Part": "0603WAF1002T5E",
             "Manufacturer": "UNI-ROYAL(厚声)",
@@ -989,39 +838,27 @@
           }
         ],
         [
-          "20kΩ",
+          "1TS028A-1700-0600-CT",
           1,
-          "R1206",
-          "R5",
+          "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
+          "RST",
           {
-            "Manufacturer Part": "1206W4F2002T5E",
-            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Manufacturer Part": "1TS028A-1700-0600-CT",
+            "Manufacturer": "HYP(鸿源精密)",
             "Supplier": "LCSC",
-            "Supplier Part": "C18003"
+            "Supplier Part": "C481987"
           }
         ],
         [
-          "499Ω",
+          "ESP32-PICO-MINI-02U-N8R2",
           1,
-          "R0805",
-          "R6",
-          {
-            "Manufacturer Part": "ARG05BTC4990",
-            "Manufacturer": "Viking(光颉)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C2828739"
-          }
-        ],
-        [
-          "CDRH104R-150NC",
-          1,
-          "IND-SMD_L10.0-W10.0_SUMIDA_CDRH104",
+          "BULETM-SMD_ESP32-PICO-MINI-02U",
           "U1",
           {
-            "Manufacturer Part": "CDRH104R-150NC",
-            "Manufacturer": "Sumida(胜美达)",
+            "Manufacturer Part": "ESP32-PICO-MINI-02U-N8R2",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
             "Supplier": "LCSC",
-            "Supplier Part": "C19462961"
+            "Supplier Part": "C3013939"
           }
         ],
         [
@@ -1061,18 +898,6 @@
           }
         ],
         [
-          "ESP32-D0WD-V3",
-          1,
-          "QFN-48_L5.0-W5.0-P0.35-BL-EP3.7",
-          "U5",
-          {
-            "Manufacturer Part": "ESP32-D0WD-V3",
-            "Manufacturer": "ESPRESSIF(乐鑫)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C967021"
-          }
-        ],
-        [
           "AMS1117-3.3",
           1,
           "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
@@ -1082,18 +907,6 @@
             "Manufacturer": "AMS",
             "Supplier": "LCSC",
             "Supplier Part": "C6186"
-          }
-        ],
-        [
-          "2450 MHz",
-          1,
-          "FILTER-SMD_1206-2P-L3.2-W1.6-L",
-          "U7",
-          {
-            "Manufacturer Part": "RFANT3216120A5T",
-            "Manufacturer": "Walsin(华新科)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C127629"
           }
         ],
         [
@@ -1109,25 +922,26 @@
           }
         ],
         [
-          "40MHz",
+          "15uH",
           1,
-          "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
-          "X1",
+          "IND-SMD_L7.2-W6.6_GPSR07X0",
+          "U9",
           {
-            "Manufacturer Part": "X322540MPB4SI",
-            "Manufacturer": "YXC(扬兴晶振)",
+            "Manufacturer Part": "CYA0630-15UH",
+            "Manufacturer": "SHOU HAN(首韩)",
             "Supplier": "LCSC",
-            "Supplier Part": "C9010"
+            "Supplier Part": "C5189959"
           }
         ]
       ],
       "components": {
         "8ff3f52df3c249d5bcb71a087fbd3742": 1,
-        "15258c3730b7443bac637ed02a3a4403": 1,
         "134a6a8cf09344b691a622b44280125c": 1,
-        "22196e3baf094c2ca0c357b40d64e2a7": 2,
-        "b210af5a1436310a86e8b108e2e5a90b": 1,
-        "588dac9f81df8f83843513972963b454": 1
+        "22196e3baf094c2ca0c357b40d64e2a7": 1,
+        "588dac9f81df8f83843513972963b454": 1,
+        "636eaea1328aca0ab94dedf5bc014170": 1,
+        "ca94110f4544769d36adda4b0515e409": 1,
+        "b210af5a1436310a86e8b108e2e5a90b": 1
       }
     },
     {
@@ -1149,34 +963,22 @@
           "CustomPara"
         ],
         [
-          "1625854-2",
-          2,
-          "TEST-RING",
-          "5V,GND",
+          "SK12D07VG3",
+          1,
+          "SW-TH_SK12D07VG3",
+          "BOOT",
           {
-            "Manufacturer Part": "1625854-2",
-            "Manufacturer": "TE Connectivity(泰科电子)",
+            "Manufacturer Part": "SK12D07VG3",
+            "Manufacturer": "ReliaPro",
             "Supplier": "LCSC",
-            "Supplier Part": "C306063"
-          }
-        ],
-        [
-          "1TS028A-1700-0600-CT",
-          2,
-          "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
-          "BOOT1,RST1",
-          {
-            "Manufacturer Part": "1TS028A-1700-0600-CT",
-            "Manufacturer": "HYP(鸿源精密)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C481987"
+            "Supplier Part": "C38264"
           }
         ],
         [
           "100nF",
-          5,
+          3,
           "C0402",
-          "C1,C3,C5,C8,C10",
+          "C1,C4,C8",
           {
             "Manufacturer Part": "CL05B104KO5NNNC",
             "Manufacturer": "SAMSUNG(三星)",
@@ -1185,22 +987,22 @@
           }
         ],
         [
-          "10uF",
-          2,
-          "C0603",
-          "C2,C7",
+          "22uF",
+          1,
+          "C1206",
+          "C2",
           {
-            "Manufacturer Part": "CL10A106MQ8NNNC",
+            "Manufacturer Part": "CL31A226KAHNNNE",
             "Manufacturer": "SAMSUNG(三星)",
             "Supplier": "LCSC",
-            "Supplier Part": "C1691"
+            "Supplier Part": "C12891"
           }
         ],
         [
           "1uF",
-          2,
+          1,
           "C0603",
-          "C4,C12",
+          "C3",
           {
             "Manufacturer Part": "CL10A105KO8NNNC",
             "Manufacturer": "SAMSUNG(三星)",
@@ -1209,15 +1011,15 @@
           }
         ],
         [
-          "10nF",
+          "10uF",
           1,
           "C0603",
-          "C6",
+          "C7",
           {
-            "Manufacturer Part": "CL10B103KB8NNNC",
+            "Manufacturer Part": "CL10A106MQ8NNNC",
             "Manufacturer": "SAMSUNG(三星)",
             "Supplier": "LCSC",
-            "Supplier Part": "C1589"
+            "Supplier Part": "C1691"
           }
         ],
         [
@@ -1230,42 +1032,6 @@
             "Manufacturer": "PANASONIC(松下)",
             "Supplier": "LCSC",
             "Supplier Part": "C242173"
-          }
-        ],
-        [
-          "100pF",
-          1,
-          "C0805",
-          "C11",
-          {
-            "Manufacturer Part": "CL21C101JBANNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1790"
-          }
-        ],
-        [
-          "20pF",
-          2,
-          "C0603",
-          "C13,C14",
-          {
-            "Manufacturer Part": "CL10C200JB8NNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1648"
-          }
-        ],
-        [
-          "3.3nF",
-          1,
-          "C0603",
-          "C15",
-          {
-            "Manufacturer Part": "CL10B332KB8NNNC",
-            "Manufacturer": "SAMSUNG(三星)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C1613"
           }
         ],
         [
@@ -1305,18 +1071,6 @@
           }
         ],
         [
-          "2nH",
-          1,
-          "L0402",
-          "L1",
-          {
-            "Manufacturer Part": "MLG1005S2N0BT000",
-            "Manufacturer": "TDK",
-            "Supplier": "LCSC",
-            "Supplier Part": "C76769"
-          }
-        ],
-        [
           "100kΩ",
           1,
           "R0603",
@@ -1342,9 +1096,9 @@
         ],
         [
           "10kΩ",
-          2,
+          3,
           "R0603",
-          "R3,R7",
+          "R3,R5,R7",
           {
             "Manufacturer Part": "0603WAF1002T5E",
             "Manufacturer": "UNI-ROYAL(厚声)",
@@ -1365,18 +1119,6 @@
           }
         ],
         [
-          "20kΩ",
-          1,
-          "R1206",
-          "R5",
-          {
-            "Manufacturer Part": "1206W4F2002T5E",
-            "Manufacturer": "UNI-ROYAL(厚声)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C18003"
-          }
-        ],
-        [
           "499Ω",
           1,
           "R0805",
@@ -1389,15 +1131,27 @@
           }
         ],
         [
-          "CDRH104R-150NC",
+          "1TS028A-1700-0600-CT",
           1,
-          "IND-SMD_L10.0-W10.0_SUMIDA_CDRH104",
+          "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
+          "RST",
+          {
+            "Manufacturer Part": "1TS028A-1700-0600-CT",
+            "Manufacturer": "HYP(鸿源精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C481987"
+          }
+        ],
+        [
+          "ESP32-PICO-MINI-02U-N8R2",
+          1,
+          "BULETM-SMD_ESP32-PICO-MINI-02U",
           "U1",
           {
-            "Manufacturer Part": "CDRH104R-150NC",
-            "Manufacturer": "Sumida(胜美达)",
+            "Manufacturer Part": "ESP32-PICO-MINI-02U-N8R2",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
             "Supplier": "LCSC",
-            "Supplier Part": "C19462961"
+            "Supplier Part": "C3013939"
           }
         ],
         [
@@ -1437,18 +1191,6 @@
           }
         ],
         [
-          "ESP32-D0WD-V3",
-          1,
-          "QFN-48_L5.0-W5.0-P0.35-BL-EP3.7",
-          "U5",
-          {
-            "Manufacturer Part": "ESP32-D0WD-V3",
-            "Manufacturer": "ESPRESSIF(乐鑫)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C967021"
-          }
-        ],
-        [
           "AMS1117-3.3",
           1,
           "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
@@ -1458,18 +1200,6 @@
             "Manufacturer": "AMS",
             "Supplier": "LCSC",
             "Supplier Part": "C6186"
-          }
-        ],
-        [
-          "2450 MHz",
-          1,
-          "FILTER-SMD_1206-2P-L3.2-W1.6-L",
-          "U7",
-          {
-            "Manufacturer Part": "RFANT3216120A5T",
-            "Manufacturer": "Walsin(华新科)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C127629"
           }
         ],
         [
@@ -1485,23 +1215,23 @@
           }
         ],
         [
-          "40MHz",
+          "15uH",
           1,
-          "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
-          "X1",
+          "IND-SMD_L7.2-W6.6_GPSR07X0",
+          "U9",
           {
-            "Manufacturer Part": "X322540MPB4SI",
-            "Manufacturer": "YXC(扬兴晶振)",
+            "Manufacturer Part": "CYA0630-15UH",
+            "Manufacturer": "SHOU HAN(首韩)",
             "Supplier": "LCSC",
-            "Supplier Part": "C9010"
+            "Supplier Part": "C5189959"
           }
         ]
       ],
-      "updateTime": 1737513596,
+      "updateTime": 1737686730,
       "createTime": 1737512957,
       "histories": [],
       "created_at": "2025-01-22 12:29:17",
-      "updated_at": "2025-01-22 12:39:56"
+      "updated_at": "2025-01-24 12:45:30"
     },
     {
       "uuid": "a9d215c7c261c7f3669e618cf2d588de",
@@ -1513,27 +1243,22 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "e32edcd15f0b4f8c8caa0332cd5ce2fe": 1,
+        "0821ed6ea50c44f4909e4be7610e4198": 4,
+        "7d428612652f46ffb8fc93df90791e51": 1,
+        "03505da0a2e843f6a041ff8445fdb871": 1,
+        "398691f1f785460098bbe5ee6590333c": 6,
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "bb35fe0736874a7c99662696f46d1d41": 1,
         "ebbbb17eba5a414f8bd83c157683b84c": 1,
         "806a55eb4d3c40ab838f70f86785d85e": 1,
-        "bb35fe0736874a7c99662696f46d1d41": 2,
-        "0821ed6ea50c44f4909e4be7610e4198": 5,
-        "f8151fdc728a41ebbc304e11d39e5437": 8,
         "46d16da1fb5d452abbac0803161d9f52": 1,
-        "2ee8eb13a0124a108e622ce40c0c25a8": 1,
         "2b64a4a35f964dc79d4564c8971337ab": 1,
         "daf4d1416438448d92b779dfd37f40c1": 1,
         "5097991214d64acd8259630f7811648f": 7,
-        "8da96988a9164ab09ca115e01caf2944": 1,
-        "398691f1f785460098bbe5ee6590333c": 5,
-        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
-        "b60f399a7a7e41848b2be1eb49c79141": 1,
         "de67cb977aae436893eb213d7e225f81": 1,
         "42f7f0bd90ab4b2b8d2a5b5861d7f4d8": 1,
         "b9c3b33211824baa8a531b99233c985d": 1,
-        "56ff7c5d8c924700af230c20758303ac": 1,
-        "02ae667aca734971be8a5f58143dd564": 1,
-        "e132634cd5c84eee80651aad71cf0dcc": 1
+        "02ae667aca734971be8a5f58143dd564": 1
       },
       "BOM": [
         [
@@ -1880,11 +1605,11 @@
           }
         ]
       ],
-      "updateTime": 1737611804,
+      "updateTime": 1737698087,
       "createTime": 1737512742,
       "histories": [],
       "created_at": "2025-01-22 12:25:42",
-      "updated_at": "2025-01-23 15:56:44"
+      "updated_at": "2025-01-24 15:54:47"
     }
   ],
   "sort": [
@@ -1896,5 +1621,5 @@
   "title": "RCU",
   "foldername": "RCU",
   "schfilename": "RCU.json",
-  "schfilemtime": 1737602419444
+  "schfilemtime": 1737688862661
 }
