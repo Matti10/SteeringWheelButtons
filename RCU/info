@@ -4,7 +4,7 @@
   "name": "RCU",
   "content": "Resu-Control-Unit :)",
   "created_at": "2025-01-22 12:18:04",
-  "updated_at": "2025-02-05 23:21:12",
+  "updated_at": "2025-03-11 08:14:14",
   "stick": "",
   "documents": [
     {
@@ -582,11 +582,11 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "updateTime": 1738720423,
+      "updateTime": 1741595243,
       "createTime": 1737512336,
       "histories": [],
       "created_at": "2025-01-22 12:18:56",
-      "updated_at": "2025-02-05 11:53:43",
+      "updated_at": "2025-03-10 18:27:23",
       "BOM": [
         [
           "Value",
@@ -764,6 +764,42 @@
           }
         ],
         [
+          "51Ω",
+          2,
+          "R0805",
+          "R6,R7",
+          {
+            "Manufacturer Part": "0805W8F510JT5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17738"
+          }
+        ],
+        [
+          "120Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "0805W8F1200T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17437"
+          }
+        ],
+        [
+          "470Ω",
+          1,
+          "R0805",
+          "R9",
+          {
+            "Manufacturer Part": "0805W8F4700T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17710"
+          }
+        ],
+        [
           "1TS028A-1700-0600-CT",
           1,
           "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
@@ -846,6 +882,42 @@
             "Supplier": "LCSC",
             "Supplier Part": "C5189959"
           }
+        ],
+        [
+          "XL-3210UBC",
+          2,
+          "LED-SMD_3P-L3.2-W1.5_BLUE",
+          "U21,U25",
+          {
+            "Manufacturer Part": "XL-3210UBC",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C965879"
+          }
+        ],
+        [
+          "XL-3210SYGC",
+          1,
+          "LED-SMD_3P-L3.2-W1.5-RD_YELLOW",
+          "U22",
+          {
+            "Manufacturer Part": "XL-3210SYGC",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C965878"
+          }
+        ],
+        [
+          "XL-3210UGC",
+          1,
+          "LED-SMD_3P-L3.2-W1.5-RD_GREEN",
+          "U24",
+          {
+            "Manufacturer Part": "XL-3210UGC",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C965877"
+          }
         ]
       ],
       "components": {
@@ -853,7 +925,13 @@
         "ca94110f4544769d36adda4b0515e409": 1,
         "b48bd3154dad475b9c541e5cea8920ff": 2,
         "0f6abd6342b204befa541cc008a8c9ed": 1,
-        "ac712718136943319f4866d90a8304e0": 1
+        "ac712718136943319f4866d90a8304e0": 1,
+        "7ead2c3f0e64d4777e91f81ba28fb127": 1,
+        "a56a57f88a3983690427227df791f629": 1,
+        "bdf9650a0f8314e73281804a553d2294": 2,
+        "2b0c82e204a447ed8ef08fc881462ede": 2,
+        "900a28f349694bc8ab9835f652862945": 1,
+        "297311ae8d4d463c93c8cf3d4841e19c": 1
       }
     },
     {
@@ -1421,6 +1499,12 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "b60f399a7a7e41848b2be1eb49c79141": 4,
+        "b7e2e2898f264b289544c5d269412692": 2,
+        "2b52e0a208dc46fcbbae9bbeab1b0cc9": 1,
+        "4e0f80a13b6244fe89c2041532a37b34": 1,
+        "d5e6b451f9b34d99a1b637fad5a6c591": 1,
+        "5bcd0f79dc8d4c768c61ea4f0aed062d": 2,
         "0138b9e6996749a584e5d8a03ed1fbc3": 1,
         "d7687a3218c1452287141642df3cd5ed": 1,
         "02ae667aca734971be8a5f58143dd564": 1,
@@ -1434,9 +1518,7 @@
         "806a55eb4d3c40ab838f70f86785d85e": 1,
         "2b64a4a35f964dc79d4564c8971337ab": 1,
         "42f7f0bd90ab4b2b8d2a5b5861d7f4d8": 1,
-        "d5e6b451f9b34d99a1b637fad5a6c591": 1,
-        "bb35fe0736874a7c99662696f46d1d41": 1,
-        "5bcd0f79dc8d4c768c61ea4f0aed062d": 2
+        "bb35fe0736874a7c99662696f46d1d41": 1
       },
       "BOM": [
         [
@@ -1783,11 +1865,11 @@
           }
         ]
       ],
-      "updateTime": 1738761672,
+      "updateTime": 1741644854,
       "createTime": 1737512742,
       "histories": [],
       "created_at": "2025-01-22 12:25:42",
-      "updated_at": "2025-02-05 23:21:12"
+      "updated_at": "2025-03-11 08:14:14"
     }
   ],
   "sort": [
@@ -1800,5 +1882,5 @@
   "title": "RCU",
   "foldername": "RCU",
   "schfilename": "RCU.json",
-  "schfilemtime": 1738720423819
+  "schfilemtime": 1741595243689
 }
