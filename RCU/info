@@ -4,7 +4,7 @@
   "name": "RCU",
   "content": "Resu-Control-Unit :)",
   "created_at": "2025-01-22 12:18:04",
-  "updated_at": "2025-03-11 08:14:14",
+  "updated_at": "2025-04-01 18:09:53",
   "stick": "",
   "documents": [
     {
@@ -582,11 +582,11 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "updateTime": 1741595243,
+      "updateTime": 1743494491,
       "createTime": 1737512336,
       "histories": [],
       "created_at": "2025-01-22 12:18:56",
-      "updated_at": "2025-03-10 18:27:23",
+      "updated_at": "2025-04-01 18:01:31",
       "BOM": [
         [
           "Value",
@@ -665,6 +665,18 @@
             "Manufacturer": "DORABO(地博电气)",
             "Supplier": "LCSC",
             "Supplier Part": "C18213790"
+          }
+        ],
+        [
+          "A2005WV-2P",
+          1,
+          "HDR-TH_2P-P2.00-V-M",
+          "CN2",
+          {
+            "Manufacturer Part": "A2005WV-2P",
+            "Manufacturer": "CJT(长江连接器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225254"
           }
         ],
         [
@@ -931,7 +943,8 @@
         "bdf9650a0f8314e73281804a553d2294": 2,
         "2b0c82e204a447ed8ef08fc881462ede": 2,
         "900a28f349694bc8ab9835f652862945": 1,
-        "297311ae8d4d463c93c8cf3d4841e19c": 1
+        "297311ae8d4d463c93c8cf3d4841e19c": 1,
+        "cfb50f33c4874e02a2d072a32ae89149": 1
       }
     },
     {
@@ -1499,12 +1512,13 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "8a59ad051ca0472489b62b8d2aec9c54": 1,
+        "d5e6b451f9b34d99a1b637fad5a6c591": 1,
+        "5bcd0f79dc8d4c768c61ea4f0aed062d": 2,
         "b60f399a7a7e41848b2be1eb49c79141": 4,
         "b7e2e2898f264b289544c5d269412692": 2,
         "2b52e0a208dc46fcbbae9bbeab1b0cc9": 1,
         "4e0f80a13b6244fe89c2041532a37b34": 1,
-        "d5e6b451f9b34d99a1b637fad5a6c591": 1,
-        "5bcd0f79dc8d4c768c61ea4f0aed062d": 2,
         "0138b9e6996749a584e5d8a03ed1fbc3": 1,
         "d7687a3218c1452287141642df3cd5ed": 1,
         "02ae667aca734971be8a5f58143dd564": 1,
@@ -1865,11 +1879,11 @@
           }
         ]
       ],
-      "updateTime": 1741644854,
+      "updateTime": 1743494993,
       "createTime": 1737512742,
       "histories": [],
       "created_at": "2025-01-22 12:25:42",
-      "updated_at": "2025-03-11 08:14:14"
+      "updated_at": "2025-04-01 18:09:53"
     }
   ],
   "sort": [
@@ -1882,5 +1896,5 @@
   "title": "RCU",
   "foldername": "RCU",
   "schfilename": "RCU.json",
-  "schfilemtime": 1741595243689
+  "schfilemtime": 1743494491896
 }
