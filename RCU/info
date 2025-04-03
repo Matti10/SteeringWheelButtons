@@ -4,7 +4,7 @@
   "name": "RCU",
   "content": "Resu-Control-Unit :)",
   "created_at": "2025-01-22 12:18:04",
-  "updated_at": "2025-04-01 18:09:53",
+  "updated_at": "2025-04-03 15:59:32",
   "stick": "",
   "documents": [
     {
@@ -582,11 +582,11 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "updateTime": 1743494491,
+      "updateTime": 1743656709,
       "createTime": 1737512336,
       "histories": [],
       "created_at": "2025-01-22 12:18:56",
-      "updated_at": "2025-04-01 18:01:31",
+      "updated_at": "2025-04-03 15:05:09",
       "BOM": [
         [
           "Value",
@@ -789,9 +789,9 @@
         ],
         [
           "120Ω",
-          1,
+          2,
           "R0805",
-          "R8",
+          "R8,R10",
           {
             "Manufacturer Part": "0805W8F1200T5E",
             "Manufacturer": "UNI-ROYAL(厚声)",
@@ -939,7 +939,7 @@
         "0f6abd6342b204befa541cc008a8c9ed": 1,
         "ac712718136943319f4866d90a8304e0": 1,
         "7ead2c3f0e64d4777e91f81ba28fb127": 1,
-        "a56a57f88a3983690427227df791f629": 1,
+        "a56a57f88a3983690427227df791f629": 2,
         "bdf9650a0f8314e73281804a553d2294": 2,
         "2b0c82e204a447ed8ef08fc881462ede": 2,
         "900a28f349694bc8ab9835f652862945": 1,
@@ -1002,6 +1002,18 @@
           }
         ],
         [
+          "220uF",
+          1,
+          "CAP-SMD_L3.5-W2.8-R-RD",
+          "C5",
+          {
+            "Manufacturer Part": "6TPE220MAZB",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C79111"
+          }
+        ],
+        [
           "10uF",
           1,
           "C0603",
@@ -1014,18 +1026,6 @@
           }
         ],
         [
-          "220uF",
-          1,
-          "CAP-SMD_L7.3-W4.3-FD",
-          "C9",
-          {
-            "Manufacturer Part": "10TPB220M",
-            "Manufacturer": "PANASONIC(松下)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C242173"
-          }
-        ],
-        [
           "DB127S-3.81-10P-GN-S",
           2,
           "CONN-TH_10P-P3.81_DIBO_DB127S-3.81-10P-GN",
@@ -1035,6 +1035,42 @@
             "Manufacturer": "DORABO(地博电气)",
             "Supplier": "LCSC",
             "Supplier Part": "C18213790"
+          }
+        ],
+        [
+          "A2005WV-2P",
+          1,
+          "HDR-TH_2P-P2.00-V-M",
+          "CN2",
+          {
+            "Manufacturer Part": "A2005WV-2P",
+            "Manufacturer": "CJT(长江连接器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225254"
+          }
+        ],
+        [
+          "1725656",
+          2,
+          "CONN-TH_2P-P2.54_1725656",
+          "CN3,CN5",
+          {
+            "Manufacturer Part": "1725656",
+            "Manufacturer": "Phoenix Contact(菲尼克斯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3029316"
+          }
+        ],
+        [
+          "A2005WV-10P",
+          1,
+          "HDR-TH_10P-P2.00-V-M-1",
+          "CN6",
+          {
+            "Manufacturer Part": "A2005WV-10P",
+            "Manufacturer": "CJT(长江连接器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225262"
           }
         ],
         [
@@ -1087,9 +1123,9 @@
         ],
         [
           "10kΩ",
-          3,
+          2,
           "R0603",
-          "R3,R5,R7",
+          "R3,R5",
           {
             "Manufacturer Part": "0603WAF1002T5E",
             "Manufacturer": "UNI-ROYAL(厚声)",
@@ -1110,6 +1146,42 @@
           }
         ],
         [
+          "51Ω",
+          2,
+          "R0805",
+          "R6,R7",
+          {
+            "Manufacturer Part": "0805W8F510JT5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17738"
+          }
+        ],
+        [
+          "120Ω",
+          2,
+          "R0805",
+          "R8,R10",
+          {
+            "Manufacturer Part": "0805W8F1200T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17437"
+          }
+        ],
+        [
+          "470Ω",
+          1,
+          "R0805",
+          "R9",
+          {
+            "Manufacturer Part": "0805W8F4700T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17710"
+          }
+        ],
+        [
           "1TS028A-1700-0600-CT",
           1,
           "SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028A",
@@ -1122,27 +1194,27 @@
           }
         ],
         [
-          "MINI MSK12CO2",
+          "ESP32-PICO-MINI-02-N8R2",
           1,
-          "SW-SMD_MSK12CO2",
-          "SW1",
+          "BULETM-SMD_ESP32-PICO-MINI-02-N8R2",
+          "U1",
           {
-            "Manufacturer Part": "MINI MSK12CO2",
-            "Manufacturer": "SHOU HAN(首韩)",
+            "Manufacturer Part": "ESP32-PICO-MINI-02-N8R2",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
             "Supplier": "LCSC",
-            "Supplier Part": "C2681570"
+            "Supplier Part": "C2980306"
           }
         ],
         [
-          "ESP32-PICO-MINI-02U-N8R2",
-          1,
-          "BULETM-SMD_ESP32-PICO-MINI-02U",
-          "U1",
+          "TX1812CWBA-F01",
+          15,
+          "LED-SMD_4P-L5.0-W5.0-TL-1",
+          "U2,U4,U5,U7,U10,U11,U12,U13,U14,U15,U16,U17,U18,U19,U20",
           {
-            "Manufacturer Part": "ESP32-PICO-MINI-02U-N8R2",
-            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Manufacturer Part": "TX1812CWBA-F01",
+            "Manufacturer": "TCWIN(天成)",
             "Supplier": "LCSC",
-            "Supplier Part": "C3013939"
+            "Supplier Part": "C27636989"
           }
         ],
         [
@@ -1155,30 +1227,6 @@
             "Manufacturer": "TI(德州仪器)",
             "Supplier": "LCSC",
             "Supplier Part": "C9864"
-          }
-        ],
-        [
-          "2541WV-2X04P",
-          1,
-          "HDR-TH_8P-P2.54-V-M-R2-C4-S2.54-3",
-          "U4",
-          {
-            "Manufacturer Part": "2541WV-2x04P",
-            "Manufacturer": "HanElectricity(瀚源)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C5383105"
-          }
-        ],
-        [
-          "TX1812CWBA-F01",
-          3,
-          "LED-SMD_4P-L5.0-W5.0-TL-1",
-          "U5,U7,U10",
-          {
-            "Manufacturer Part": "TX1812CWBA-F01",
-            "Manufacturer": "TCWIN(天成)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C27636989"
           }
         ],
         [
@@ -1216,13 +1264,49 @@
             "Supplier": "LCSC",
             "Supplier Part": "C5189959"
           }
+        ],
+        [
+          "XL-3210UBC",
+          2,
+          "LED-SMD_3P-L3.2-W1.5_BLUE",
+          "U21,U25",
+          {
+            "Manufacturer Part": "XL-3210UBC",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C965879"
+          }
+        ],
+        [
+          "XL-3210SYGC",
+          1,
+          "LED-SMD_3P-L3.2-W1.5-RD_YELLOW",
+          "U22",
+          {
+            "Manufacturer Part": "XL-3210SYGC",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C965878"
+          }
+        ],
+        [
+          "XL-3210UGC",
+          1,
+          "LED-SMD_3P-L3.2-W1.5-RD_GREEN",
+          "U24",
+          {
+            "Manufacturer Part": "XL-3210UGC",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C965877"
+          }
         ]
       ],
-      "updateTime": 1737865857,
+      "updateTime": 1743656240,
       "createTime": 1737512957,
       "histories": [],
       "created_at": "2025-01-22 12:29:17",
-      "updated_at": "2025-01-26 14:30:57"
+      "updated_at": "2025-04-03 14:57:20"
     },
     {
       "uuid": "f75e54167422524de2b0879dc46863d9",
@@ -1512,13 +1596,13 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "8a59ad051ca0472489b62b8d2aec9c54": 1,
         "d5e6b451f9b34d99a1b637fad5a6c591": 1,
         "5bcd0f79dc8d4c768c61ea4f0aed062d": 2,
-        "b60f399a7a7e41848b2be1eb49c79141": 4,
+        "b60f399a7a7e41848b2be1eb49c79141": 5,
         "b7e2e2898f264b289544c5d269412692": 2,
         "2b52e0a208dc46fcbbae9bbeab1b0cc9": 1,
         "4e0f80a13b6244fe89c2041532a37b34": 1,
+        "8a59ad051ca0472489b62b8d2aec9c54": 1,
         "0138b9e6996749a584e5d8a03ed1fbc3": 1,
         "d7687a3218c1452287141642df3cd5ed": 1,
         "02ae667aca734971be8a5f58143dd564": 1,
@@ -1879,11 +1963,11 @@
           }
         ]
       ],
-      "updateTime": 1743494993,
+      "updateTime": 1743659972,
       "createTime": 1737512742,
       "histories": [],
       "created_at": "2025-01-22 12:25:42",
-      "updated_at": "2025-04-01 18:09:53"
+      "updated_at": "2025-04-03 15:59:32"
     }
   ],
   "sort": [
@@ -1896,5 +1980,5 @@
   "title": "RCU",
   "foldername": "RCU",
   "schfilename": "RCU.json",
-  "schfilemtime": 1743494491896
+  "schfilemtime": 1743656709271
 }
