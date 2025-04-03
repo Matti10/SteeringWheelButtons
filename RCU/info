@@ -4,7 +4,7 @@
   "name": "RCU",
   "content": "Resu-Control-Unit :)",
   "created_at": "2025-01-22 12:18:04",
-  "updated_at": "2025-04-03 15:59:32",
+  "updated_at": "2025-04-04 09:30:14",
   "stick": "",
   "documents": [
     {
@@ -582,11 +582,11 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "updateTime": 1743656709,
+      "updateTime": 1743722741,
       "createTime": 1737512336,
       "histories": [],
       "created_at": "2025-01-22 12:18:56",
-      "updated_at": "2025-04-03 15:05:09",
+      "updated_at": "2025-04-04 09:25:41",
       "BOM": [
         [
           "Value",
@@ -1963,11 +1963,11 @@
           }
         ]
       ],
-      "updateTime": 1743659972,
+      "updateTime": 1743723014,
       "createTime": 1737512742,
       "histories": [],
       "created_at": "2025-01-22 12:25:42",
-      "updated_at": "2025-04-03 15:59:32"
+      "updated_at": "2025-04-04 09:30:14"
     }
   ],
   "sort": [
@@ -1980,5 +1980,5 @@
   "title": "RCU",
   "foldername": "RCU",
   "schfilename": "RCU.json",
-  "schfilemtime": 1743656709271
+  "schfilemtime": 1743722742056
 }
